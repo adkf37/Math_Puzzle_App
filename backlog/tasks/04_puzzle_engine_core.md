@@ -4,15 +4,15 @@
 - Shared infrastructure for state, undo/redo, validation hooks
 
 ## Tasks
-- [ ] Implement engine base:
-  - [ ] immutable state updates (or careful mutation + snapshots)
-  - [ ] undo/redo stack
-  - [ ] timer + attempts
-- [ ] Implement generic “check solved” pipeline
-- [ ] Implement hint ladder support:
-  - [ ] track hints used
-  - [ ] lock “show solution” behind thresholds
-- [ ] Add unit tests for engine base
+- [x] Implement engine base:
+  - [x] immutable state updates (or careful mutation + snapshots)
+  - [x] undo/redo stack
+  - [x] timer + attempts
+- [x] Implement generic “check solved” pipeline
+- [x] Implement hint ladder support:
+  - [x] track hints used
+  - [x] lock “show solution” behind thresholds
+- [x] Add unit tests for engine base
 
 ## Definition of Done
 - One puzzle type can run end-to-end with undo/redo and solved checks

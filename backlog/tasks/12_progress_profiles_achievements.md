@@ -5,17 +5,17 @@
 - Engagement without monetization
 
 ## Tasks
-- [ ] Implement profile create/select (icon + name)
-- [ ] Track progress:
-  - [ ] per puzzle: solved, time, hints used
-  - [ ] per type/tier: completion %
-- [ ] Achievements:
+- [x] Implement profile create/select (icon + name)
+- [x] Track progress:
+  - [x] per puzzle: solved, time, hints used
+  - [x] per type/tier: completion %
+- [x] Achievements:
   - [ ] solve streaks
-  - [ ] “no hint” solves
-  - [ ] category completion
-- [ ] Progress UI:
-  - [ ] puzzle map / rooms
-  - [ ] badges screen
+  - [x] “no hint” solves
+  - [x] category completion
+- [x] Progress UI:
+  - [x] puzzle map / rooms
+  - [x] badges screen
 
 ## Definition of Done
 - Kids can see clear progress and earn badges

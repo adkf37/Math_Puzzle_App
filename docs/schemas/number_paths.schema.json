@@ -1,0 +1,13 @@
+{
+  "type": "object",
+  "required": ["rows", "cols", "start", "end"],
+  "properties": {
+    "rows": { "type": "integer", "minimum": 2 },
+    "cols": { "type": "integer", "minimum": 2 },
+    "start": { "type": "integer", "minimum": 0 },
+    "end": { "type": "integer", "minimum": 0 },
+    "blocked": { "type": "array", "items": { "type": "integer" } },
+    "must_visit": { "type": "array", "items": { "type": "integer" } },
+    "order_clues": { "type": "object" }
+  }
+}

@@ -1,0 +1,2374 @@
+{
+    "puzzles":  [
+                    {
+                        "id":  "tiling_easy_01",
+                        "type":  "tiling",
+                        "initial_state":  {
+                                              "placements":  {
+
+                                                             },
+                                              "cols":  4,
+                                              "rows":  4,
+                                              "pieces":  [
+                                                             {
+                                                                 "id":  "A",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "B",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "C",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "D",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             }
+                                                         ]
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Place all pieces to cover targets.",
+                                      "No overlap."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "covered_cells":  [
+                                                               0,
+                                                               1,
+                                                               4,
+                                                               5
+                                                           ]
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "easy",
+                        "prompt":  "Tiling easy #1",
+                        "tags":  [
+                                     "geometry",
+                                     "logic"
+                                 ]
+                    },
+                    {
+                        "id":  "tiling_easy_02",
+                        "type":  "tiling",
+                        "initial_state":  {
+                                              "placements":  {
+
+                                                             },
+                                              "cols":  4,
+                                              "rows":  4,
+                                              "pieces":  [
+                                                             {
+                                                                 "id":  "A",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "B",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "C",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "D",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             }
+                                                         ]
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Place all pieces to cover targets.",
+                                      "No overlap."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "covered_cells":  [
+                                                               0,
+                                                               1,
+                                                               4,
+                                                               5
+                                                           ]
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "easy",
+                        "prompt":  "Tiling easy #2",
+                        "tags":  [
+                                     "geometry",
+                                     "logic"
+                                 ]
+                    },
+                    {
+                        "id":  "tiling_easy_03",
+                        "type":  "tiling",
+                        "initial_state":  {
+                                              "placements":  {
+
+                                                             },
+                                              "cols":  4,
+                                              "rows":  4,
+                                              "pieces":  [
+                                                             {
+                                                                 "id":  "A",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "B",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "C",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "D",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             }
+                                                         ]
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Place all pieces to cover targets.",
+                                      "No overlap."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "covered_cells":  [
+                                                               0,
+                                                               1,
+                                                               4,
+                                                               5
+                                                           ]
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "easy",
+                        "prompt":  "Tiling easy #3",
+                        "tags":  [
+                                     "geometry",
+                                     "logic"
+                                 ]
+                    },
+                    {
+                        "id":  "tiling_easy_04",
+                        "type":  "tiling",
+                        "initial_state":  {
+                                              "placements":  {
+
+                                                             },
+                                              "cols":  4,
+                                              "rows":  4,
+                                              "pieces":  [
+                                                             {
+                                                                 "id":  "A",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "B",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "C",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "D",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             }
+                                                         ]
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Place all pieces to cover targets.",
+                                      "No overlap."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "covered_cells":  [
+                                                               0,
+                                                               1,
+                                                               4,
+                                                               5
+                                                           ]
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "easy",
+                        "prompt":  "Tiling easy #4",
+                        "tags":  [
+                                     "geometry",
+                                     "logic"
+                                 ]
+                    },
+                    {
+                        "id":  "tiling_easy_05",
+                        "type":  "tiling",
+                        "initial_state":  {
+                                              "placements":  {
+
+                                                             },
+                                              "cols":  4,
+                                              "rows":  4,
+                                              "pieces":  [
+                                                             {
+                                                                 "id":  "A",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "B",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "C",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "D",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             }
+                                                         ]
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Place all pieces to cover targets.",
+                                      "No overlap."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "covered_cells":  [
+                                                               0,
+                                                               1,
+                                                               4,
+                                                               5
+                                                           ]
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "easy",
+                        "prompt":  "Tiling easy #5",
+                        "tags":  [
+                                     "geometry",
+                                     "logic"
+                                 ]
+                    },
+                    {
+                        "id":  "tiling_easy_06",
+                        "type":  "tiling",
+                        "initial_state":  {
+                                              "placements":  {
+
+                                                             },
+                                              "cols":  4,
+                                              "rows":  4,
+                                              "pieces":  [
+                                                             {
+                                                                 "id":  "A",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "B",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "C",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "D",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             }
+                                                         ]
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Place all pieces to cover targets.",
+                                      "No overlap."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "covered_cells":  [
+                                                               0,
+                                                               1,
+                                                               4,
+                                                               5
+                                                           ]
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "easy",
+                        "prompt":  "Tiling easy #6",
+                        "tags":  [
+                                     "geometry",
+                                     "logic"
+                                 ]
+                    },
+                    {
+                        "id":  "tiling_easy_07",
+                        "type":  "tiling",
+                        "initial_state":  {
+                                              "placements":  {
+
+                                                             },
+                                              "cols":  4,
+                                              "rows":  4,
+                                              "pieces":  [
+                                                             {
+                                                                 "id":  "A",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "B",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "C",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "D",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             }
+                                                         ]
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Place all pieces to cover targets.",
+                                      "No overlap."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "covered_cells":  [
+                                                               0,
+                                                               1,
+                                                               4,
+                                                               5
+                                                           ]
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "easy",
+                        "prompt":  "Tiling easy #7",
+                        "tags":  [
+                                     "geometry",
+                                     "logic"
+                                 ]
+                    },
+                    {
+                        "id":  "tiling_easy_08",
+                        "type":  "tiling",
+                        "initial_state":  {
+                                              "placements":  {
+
+                                                             },
+                                              "cols":  4,
+                                              "rows":  4,
+                                              "pieces":  [
+                                                             {
+                                                                 "id":  "A",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "B",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "C",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "D",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             }
+                                                         ]
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Place all pieces to cover targets.",
+                                      "No overlap."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "covered_cells":  [
+                                                               0,
+                                                               1,
+                                                               4,
+                                                               5
+                                                           ]
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "easy",
+                        "prompt":  "Tiling easy #8",
+                        "tags":  [
+                                     "geometry",
+                                     "logic"
+                                 ]
+                    },
+                    {
+                        "id":  "tiling_easy_09",
+                        "type":  "tiling",
+                        "initial_state":  {
+                                              "placements":  {
+
+                                                             },
+                                              "cols":  4,
+                                              "rows":  4,
+                                              "pieces":  [
+                                                             {
+                                                                 "id":  "A",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "B",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "C",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "D",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             }
+                                                         ]
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Place all pieces to cover targets.",
+                                      "No overlap."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "covered_cells":  [
+                                                               0,
+                                                               1,
+                                                               4,
+                                                               5
+                                                           ]
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "easy",
+                        "prompt":  "Tiling easy #9",
+                        "tags":  [
+                                     "geometry",
+                                     "logic"
+                                 ]
+                    },
+                    {
+                        "id":  "tiling_easy_10",
+                        "type":  "tiling",
+                        "initial_state":  {
+                                              "placements":  {
+
+                                                             },
+                                              "cols":  4,
+                                              "rows":  4,
+                                              "pieces":  [
+                                                             {
+                                                                 "id":  "A",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "B",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "C",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "D",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             }
+                                                         ]
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Place all pieces to cover targets.",
+                                      "No overlap."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "covered_cells":  [
+                                                               0,
+                                                               1,
+                                                               4,
+                                                               5
+                                                           ]
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "easy",
+                        "prompt":  "Tiling easy #10",
+                        "tags":  [
+                                     "geometry",
+                                     "logic"
+                                 ]
+                    },
+                    {
+                        "id":  "tiling_medium_01",
+                        "type":  "tiling",
+                        "initial_state":  {
+                                              "placements":  {
+
+                                                             },
+                                              "cols":  4,
+                                              "rows":  4,
+                                              "pieces":  [
+                                                             {
+                                                                 "id":  "A",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "B",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "C",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "D",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             }
+                                                         ]
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Place all pieces to cover targets.",
+                                      "No overlap."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "covered_cells":  [
+                                                               0,
+                                                               1,
+                                                               4,
+                                                               5
+                                                           ]
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "medium",
+                        "prompt":  "Tiling medium #1",
+                        "tags":  [
+                                     "geometry",
+                                     "logic"
+                                 ]
+                    },
+                    {
+                        "id":  "tiling_medium_02",
+                        "type":  "tiling",
+                        "initial_state":  {
+                                              "placements":  {
+
+                                                             },
+                                              "cols":  4,
+                                              "rows":  4,
+                                              "pieces":  [
+                                                             {
+                                                                 "id":  "A",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "B",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "C",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "D",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             }
+                                                         ]
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Place all pieces to cover targets.",
+                                      "No overlap."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "covered_cells":  [
+                                                               0,
+                                                               1,
+                                                               4,
+                                                               5
+                                                           ]
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "medium",
+                        "prompt":  "Tiling medium #2",
+                        "tags":  [
+                                     "geometry",
+                                     "logic"
+                                 ]
+                    },
+                    {
+                        "id":  "tiling_medium_03",
+                        "type":  "tiling",
+                        "initial_state":  {
+                                              "placements":  {
+
+                                                             },
+                                              "cols":  4,
+                                              "rows":  4,
+                                              "pieces":  [
+                                                             {
+                                                                 "id":  "A",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "B",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "C",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "D",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             }
+                                                         ]
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Place all pieces to cover targets.",
+                                      "No overlap."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "covered_cells":  [
+                                                               0,
+                                                               1,
+                                                               4,
+                                                               5
+                                                           ]
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "medium",
+                        "prompt":  "Tiling medium #3",
+                        "tags":  [
+                                     "geometry",
+                                     "logic"
+                                 ]
+                    },
+                    {
+                        "id":  "tiling_medium_04",
+                        "type":  "tiling",
+                        "initial_state":  {
+                                              "placements":  {
+
+                                                             },
+                                              "cols":  4,
+                                              "rows":  4,
+                                              "pieces":  [
+                                                             {
+                                                                 "id":  "A",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "B",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "C",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "D",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             }
+                                                         ]
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Place all pieces to cover targets.",
+                                      "No overlap."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "covered_cells":  [
+                                                               0,
+                                                               1,
+                                                               4,
+                                                               5
+                                                           ]
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "medium",
+                        "prompt":  "Tiling medium #4",
+                        "tags":  [
+                                     "geometry",
+                                     "logic"
+                                 ]
+                    },
+                    {
+                        "id":  "tiling_medium_05",
+                        "type":  "tiling",
+                        "initial_state":  {
+                                              "placements":  {
+
+                                                             },
+                                              "cols":  4,
+                                              "rows":  4,
+                                              "pieces":  [
+                                                             {
+                                                                 "id":  "A",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "B",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "C",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "D",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             }
+                                                         ]
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Place all pieces to cover targets.",
+                                      "No overlap."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "covered_cells":  [
+                                                               0,
+                                                               1,
+                                                               4,
+                                                               5
+                                                           ]
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "medium",
+                        "prompt":  "Tiling medium #5",
+                        "tags":  [
+                                     "geometry",
+                                     "logic"
+                                 ]
+                    },
+                    {
+                        "id":  "tiling_medium_06",
+                        "type":  "tiling",
+                        "initial_state":  {
+                                              "placements":  {
+
+                                                             },
+                                              "cols":  4,
+                                              "rows":  4,
+                                              "pieces":  [
+                                                             {
+                                                                 "id":  "A",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "B",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "C",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "D",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             }
+                                                         ]
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Place all pieces to cover targets.",
+                                      "No overlap."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "covered_cells":  [
+                                                               0,
+                                                               1,
+                                                               4,
+                                                               5
+                                                           ]
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "medium",
+                        "prompt":  "Tiling medium #6",
+                        "tags":  [
+                                     "geometry",
+                                     "logic"
+                                 ]
+                    },
+                    {
+                        "id":  "tiling_medium_07",
+                        "type":  "tiling",
+                        "initial_state":  {
+                                              "placements":  {
+
+                                                             },
+                                              "cols":  4,
+                                              "rows":  4,
+                                              "pieces":  [
+                                                             {
+                                                                 "id":  "A",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "B",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "C",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "D",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             }
+                                                         ]
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Place all pieces to cover targets.",
+                                      "No overlap."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "covered_cells":  [
+                                                               0,
+                                                               1,
+                                                               4,
+                                                               5
+                                                           ]
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "medium",
+                        "prompt":  "Tiling medium #7",
+                        "tags":  [
+                                     "geometry",
+                                     "logic"
+                                 ]
+                    },
+                    {
+                        "id":  "tiling_medium_08",
+                        "type":  "tiling",
+                        "initial_state":  {
+                                              "placements":  {
+
+                                                             },
+                                              "cols":  4,
+                                              "rows":  4,
+                                              "pieces":  [
+                                                             {
+                                                                 "id":  "A",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "B",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "C",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "D",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             }
+                                                         ]
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Place all pieces to cover targets.",
+                                      "No overlap."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "covered_cells":  [
+                                                               0,
+                                                               1,
+                                                               4,
+                                                               5
+                                                           ]
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "medium",
+                        "prompt":  "Tiling medium #8",
+                        "tags":  [
+                                     "geometry",
+                                     "logic"
+                                 ]
+                    },
+                    {
+                        "id":  "tiling_medium_09",
+                        "type":  "tiling",
+                        "initial_state":  {
+                                              "placements":  {
+
+                                                             },
+                                              "cols":  4,
+                                              "rows":  4,
+                                              "pieces":  [
+                                                             {
+                                                                 "id":  "A",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "B",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "C",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "D",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             }
+                                                         ]
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Place all pieces to cover targets.",
+                                      "No overlap."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "covered_cells":  [
+                                                               0,
+                                                               1,
+                                                               4,
+                                                               5
+                                                           ]
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "medium",
+                        "prompt":  "Tiling medium #9",
+                        "tags":  [
+                                     "geometry",
+                                     "logic"
+                                 ]
+                    },
+                    {
+                        "id":  "tiling_medium_10",
+                        "type":  "tiling",
+                        "initial_state":  {
+                                              "placements":  {
+
+                                                             },
+                                              "cols":  4,
+                                              "rows":  4,
+                                              "pieces":  [
+                                                             {
+                                                                 "id":  "A",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "B",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "C",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "D",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             }
+                                                         ]
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Place all pieces to cover targets.",
+                                      "No overlap."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "covered_cells":  [
+                                                               0,
+                                                               1,
+                                                               4,
+                                                               5
+                                                           ]
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "medium",
+                        "prompt":  "Tiling medium #10",
+                        "tags":  [
+                                     "geometry",
+                                     "logic"
+                                 ]
+                    },
+                    {
+                        "id":  "tiling_hard_01",
+                        "type":  "tiling",
+                        "initial_state":  {
+                                              "placements":  {
+
+                                                             },
+                                              "cols":  4,
+                                              "rows":  4,
+                                              "pieces":  [
+                                                             {
+                                                                 "id":  "A",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "B",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "C",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "D",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             }
+                                                         ]
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Place all pieces to cover targets.",
+                                      "No overlap."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "covered_cells":  [
+                                                               0,
+                                                               1,
+                                                               4,
+                                                               5
+                                                           ]
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "hard",
+                        "prompt":  "Tiling hard #1",
+                        "tags":  [
+                                     "geometry",
+                                     "logic"
+                                 ]
+                    },
+                    {
+                        "id":  "tiling_hard_02",
+                        "type":  "tiling",
+                        "initial_state":  {
+                                              "placements":  {
+
+                                                             },
+                                              "cols":  4,
+                                              "rows":  4,
+                                              "pieces":  [
+                                                             {
+                                                                 "id":  "A",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "B",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "C",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "D",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             }
+                                                         ]
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Place all pieces to cover targets.",
+                                      "No overlap."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "covered_cells":  [
+                                                               0,
+                                                               1,
+                                                               4,
+                                                               5
+                                                           ]
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "hard",
+                        "prompt":  "Tiling hard #2",
+                        "tags":  [
+                                     "geometry",
+                                     "logic"
+                                 ]
+                    },
+                    {
+                        "id":  "tiling_hard_03",
+                        "type":  "tiling",
+                        "initial_state":  {
+                                              "placements":  {
+
+                                                             },
+                                              "cols":  4,
+                                              "rows":  4,
+                                              "pieces":  [
+                                                             {
+                                                                 "id":  "A",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "B",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "C",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "D",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             }
+                                                         ]
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Place all pieces to cover targets.",
+                                      "No overlap."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "covered_cells":  [
+                                                               0,
+                                                               1,
+                                                               4,
+                                                               5
+                                                           ]
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "hard",
+                        "prompt":  "Tiling hard #3",
+                        "tags":  [
+                                     "geometry",
+                                     "logic"
+                                 ]
+                    },
+                    {
+                        "id":  "tiling_hard_04",
+                        "type":  "tiling",
+                        "initial_state":  {
+                                              "placements":  {
+
+                                                             },
+                                              "cols":  4,
+                                              "rows":  4,
+                                              "pieces":  [
+                                                             {
+                                                                 "id":  "A",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "B",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "C",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "D",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             }
+                                                         ]
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Place all pieces to cover targets.",
+                                      "No overlap."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "covered_cells":  [
+                                                               0,
+                                                               1,
+                                                               4,
+                                                               5
+                                                           ]
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "hard",
+                        "prompt":  "Tiling hard #4",
+                        "tags":  [
+                                     "geometry",
+                                     "logic"
+                                 ]
+                    },
+                    {
+                        "id":  "tiling_hard_05",
+                        "type":  "tiling",
+                        "initial_state":  {
+                                              "placements":  {
+
+                                                             },
+                                              "cols":  4,
+                                              "rows":  4,
+                                              "pieces":  [
+                                                             {
+                                                                 "id":  "A",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "B",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "C",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "D",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             }
+                                                         ]
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Place all pieces to cover targets.",
+                                      "No overlap."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "covered_cells":  [
+                                                               0,
+                                                               1,
+                                                               4,
+                                                               5
+                                                           ]
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "hard",
+                        "prompt":  "Tiling hard #5",
+                        "tags":  [
+                                     "geometry",
+                                     "logic"
+                                 ]
+                    },
+                    {
+                        "id":  "tiling_hard_06",
+                        "type":  "tiling",
+                        "initial_state":  {
+                                              "placements":  {
+
+                                                             },
+                                              "cols":  4,
+                                              "rows":  4,
+                                              "pieces":  [
+                                                             {
+                                                                 "id":  "A",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "B",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "C",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "D",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             }
+                                                         ]
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Place all pieces to cover targets.",
+                                      "No overlap."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "covered_cells":  [
+                                                               0,
+                                                               1,
+                                                               4,
+                                                               5
+                                                           ]
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "hard",
+                        "prompt":  "Tiling hard #6",
+                        "tags":  [
+                                     "geometry",
+                                     "logic"
+                                 ]
+                    },
+                    {
+                        "id":  "tiling_hard_07",
+                        "type":  "tiling",
+                        "initial_state":  {
+                                              "placements":  {
+
+                                                             },
+                                              "cols":  4,
+                                              "rows":  4,
+                                              "pieces":  [
+                                                             {
+                                                                 "id":  "A",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "B",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "C",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "D",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             }
+                                                         ]
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Place all pieces to cover targets.",
+                                      "No overlap."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "covered_cells":  [
+                                                               0,
+                                                               1,
+                                                               4,
+                                                               5
+                                                           ]
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "hard",
+                        "prompt":  "Tiling hard #7",
+                        "tags":  [
+                                     "geometry",
+                                     "logic"
+                                 ]
+                    },
+                    {
+                        "id":  "tiling_hard_08",
+                        "type":  "tiling",
+                        "initial_state":  {
+                                              "placements":  {
+
+                                                             },
+                                              "cols":  4,
+                                              "rows":  4,
+                                              "pieces":  [
+                                                             {
+                                                                 "id":  "A",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "B",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "C",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "D",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             }
+                                                         ]
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Place all pieces to cover targets.",
+                                      "No overlap."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "covered_cells":  [
+                                                               0,
+                                                               1,
+                                                               4,
+                                                               5
+                                                           ]
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "hard",
+                        "prompt":  "Tiling hard #8",
+                        "tags":  [
+                                     "geometry",
+                                     "logic"
+                                 ]
+                    },
+                    {
+                        "id":  "tiling_hard_09",
+                        "type":  "tiling",
+                        "initial_state":  {
+                                              "placements":  {
+
+                                                             },
+                                              "cols":  4,
+                                              "rows":  4,
+                                              "pieces":  [
+                                                             {
+                                                                 "id":  "A",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "B",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "C",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "D",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             }
+                                                         ]
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Place all pieces to cover targets.",
+                                      "No overlap."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "covered_cells":  [
+                                                               0,
+                                                               1,
+                                                               4,
+                                                               5
+                                                           ]
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "hard",
+                        "prompt":  "Tiling hard #9",
+                        "tags":  [
+                                     "geometry",
+                                     "logic"
+                                 ]
+                    },
+                    {
+                        "id":  "tiling_hard_10",
+                        "type":  "tiling",
+                        "initial_state":  {
+                                              "placements":  {
+
+                                                             },
+                                              "cols":  4,
+                                              "rows":  4,
+                                              "pieces":  [
+                                                             {
+                                                                 "id":  "A",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "B",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "C",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             },
+                                                             {
+                                                                 "id":  "D",
+                                                                 "shape":  [
+                                                                               1
+                                                                           ]
+                                                             }
+                                                         ]
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Place all pieces to cover targets.",
+                                      "No overlap."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "covered_cells":  [
+                                                               0,
+                                                               1,
+                                                               4,
+                                                               5
+                                                           ]
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "hard",
+                        "prompt":  "Tiling hard #10",
+                        "tags":  [
+                                     "geometry",
+                                     "logic"
+                                 ]
+                    }
+                ]
+}

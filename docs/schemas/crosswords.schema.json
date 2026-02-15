@@ -1,0 +1,20 @@
+{
+  "type": "object",
+  "required": ["grid", "clues"],
+  "properties": {
+    "grid": { "type": "array", "items": { "type": "string" } },
+    "clues": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "direction", "length", "clue"],
+        "properties": {
+          "id": { "type": "string" },
+          "direction": { "enum": ["across", "down"] },
+          "length": { "type": "integer", "minimum": 1 },
+          "clue": { "type": "string" }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,2104 @@
+{
+    "puzzles":  [
+                    {
+                        "id":  "np_easy_01",
+                        "type":  "number_paths",
+                        "initial_state":  {
+                                              "start":  0,
+                                              "cols":  4,
+                                              "blocked":  [
+
+                                                          ],
+                                              "must_visit":  [
+                                                                 6,
+                                                                 10
+                                                             ],
+                                              "order_clues":  {
+                                                                  "6":  4,
+                                                                  "0":  1
+                                                              },
+                                              "end":  15,
+                                              "path":  [
+                                                           0
+                                                       ],
+                                              "rows":  4
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Move orthogonally.",
+                                      "Do not revisit cells.",
+                                      "End on E."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "path":  [
+                                                      0,
+                                                      1,
+                                                      2,
+                                                      6,
+                                                      10,
+                                                      14,
+                                                      15
+                                                  ]
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "easy",
+                        "prompt":  "Number Path easy #1",
+                        "tags":  [
+                                     "logic",
+                                     "arithmetic"
+                                 ]
+                    },
+                    {
+                        "id":  "np_easy_02",
+                        "type":  "number_paths",
+                        "initial_state":  {
+                                              "start":  0,
+                                              "cols":  4,
+                                              "blocked":  [
+
+                                                          ],
+                                              "must_visit":  [
+                                                                 6,
+                                                                 10
+                                                             ],
+                                              "order_clues":  {
+                                                                  "6":  4,
+                                                                  "0":  1
+                                                              },
+                                              "end":  15,
+                                              "path":  [
+                                                           0
+                                                       ],
+                                              "rows":  4
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Move orthogonally.",
+                                      "Do not revisit cells.",
+                                      "End on E."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "path":  [
+                                                      0,
+                                                      1,
+                                                      2,
+                                                      6,
+                                                      10,
+                                                      14,
+                                                      15
+                                                  ]
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "easy",
+                        "prompt":  "Number Path easy #2",
+                        "tags":  [
+                                     "logic",
+                                     "arithmetic"
+                                 ]
+                    },
+                    {
+                        "id":  "np_easy_03",
+                        "type":  "number_paths",
+                        "initial_state":  {
+                                              "start":  0,
+                                              "cols":  4,
+                                              "blocked":  [
+
+                                                          ],
+                                              "must_visit":  [
+                                                                 6,
+                                                                 10
+                                                             ],
+                                              "order_clues":  {
+                                                                  "6":  4,
+                                                                  "0":  1
+                                                              },
+                                              "end":  15,
+                                              "path":  [
+                                                           0
+                                                       ],
+                                              "rows":  4
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Move orthogonally.",
+                                      "Do not revisit cells.",
+                                      "End on E."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "path":  [
+                                                      0,
+                                                      1,
+                                                      2,
+                                                      6,
+                                                      10,
+                                                      14,
+                                                      15
+                                                  ]
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "easy",
+                        "prompt":  "Number Path easy #3",
+                        "tags":  [
+                                     "logic",
+                                     "arithmetic"
+                                 ]
+                    },
+                    {
+                        "id":  "np_easy_04",
+                        "type":  "number_paths",
+                        "initial_state":  {
+                                              "start":  0,
+                                              "cols":  4,
+                                              "blocked":  [
+
+                                                          ],
+                                              "must_visit":  [
+                                                                 6,
+                                                                 10
+                                                             ],
+                                              "order_clues":  {
+                                                                  "6":  4,
+                                                                  "0":  1
+                                                              },
+                                              "end":  15,
+                                              "path":  [
+                                                           0
+                                                       ],
+                                              "rows":  4
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Move orthogonally.",
+                                      "Do not revisit cells.",
+                                      "End on E."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "path":  [
+                                                      0,
+                                                      1,
+                                                      2,
+                                                      6,
+                                                      10,
+                                                      14,
+                                                      15
+                                                  ]
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "easy",
+                        "prompt":  "Number Path easy #4",
+                        "tags":  [
+                                     "logic",
+                                     "arithmetic"
+                                 ]
+                    },
+                    {
+                        "id":  "np_easy_05",
+                        "type":  "number_paths",
+                        "initial_state":  {
+                                              "start":  0,
+                                              "cols":  4,
+                                              "blocked":  [
+
+                                                          ],
+                                              "must_visit":  [
+                                                                 6,
+                                                                 10
+                                                             ],
+                                              "order_clues":  {
+                                                                  "6":  4,
+                                                                  "0":  1
+                                                              },
+                                              "end":  15,
+                                              "path":  [
+                                                           0
+                                                       ],
+                                              "rows":  4
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Move orthogonally.",
+                                      "Do not revisit cells.",
+                                      "End on E."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "path":  [
+                                                      0,
+                                                      1,
+                                                      2,
+                                                      6,
+                                                      10,
+                                                      14,
+                                                      15
+                                                  ]
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "easy",
+                        "prompt":  "Number Path easy #5",
+                        "tags":  [
+                                     "logic",
+                                     "arithmetic"
+                                 ]
+                    },
+                    {
+                        "id":  "np_easy_06",
+                        "type":  "number_paths",
+                        "initial_state":  {
+                                              "start":  0,
+                                              "cols":  4,
+                                              "blocked":  [
+
+                                                          ],
+                                              "must_visit":  [
+                                                                 6,
+                                                                 10
+                                                             ],
+                                              "order_clues":  {
+                                                                  "6":  4,
+                                                                  "0":  1
+                                                              },
+                                              "end":  15,
+                                              "path":  [
+                                                           0
+                                                       ],
+                                              "rows":  4
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Move orthogonally.",
+                                      "Do not revisit cells.",
+                                      "End on E."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "path":  [
+                                                      0,
+                                                      1,
+                                                      2,
+                                                      6,
+                                                      10,
+                                                      14,
+                                                      15
+                                                  ]
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "easy",
+                        "prompt":  "Number Path easy #6",
+                        "tags":  [
+                                     "logic",
+                                     "arithmetic"
+                                 ]
+                    },
+                    {
+                        "id":  "np_easy_07",
+                        "type":  "number_paths",
+                        "initial_state":  {
+                                              "start":  0,
+                                              "cols":  4,
+                                              "blocked":  [
+
+                                                          ],
+                                              "must_visit":  [
+                                                                 6,
+                                                                 10
+                                                             ],
+                                              "order_clues":  {
+                                                                  "6":  4,
+                                                                  "0":  1
+                                                              },
+                                              "end":  15,
+                                              "path":  [
+                                                           0
+                                                       ],
+                                              "rows":  4
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Move orthogonally.",
+                                      "Do not revisit cells.",
+                                      "End on E."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "path":  [
+                                                      0,
+                                                      1,
+                                                      2,
+                                                      6,
+                                                      10,
+                                                      14,
+                                                      15
+                                                  ]
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "easy",
+                        "prompt":  "Number Path easy #7",
+                        "tags":  [
+                                     "logic",
+                                     "arithmetic"
+                                 ]
+                    },
+                    {
+                        "id":  "np_easy_08",
+                        "type":  "number_paths",
+                        "initial_state":  {
+                                              "start":  0,
+                                              "cols":  4,
+                                              "blocked":  [
+
+                                                          ],
+                                              "must_visit":  [
+                                                                 6,
+                                                                 10
+                                                             ],
+                                              "order_clues":  {
+                                                                  "6":  4,
+                                                                  "0":  1
+                                                              },
+                                              "end":  15,
+                                              "path":  [
+                                                           0
+                                                       ],
+                                              "rows":  4
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Move orthogonally.",
+                                      "Do not revisit cells.",
+                                      "End on E."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "path":  [
+                                                      0,
+                                                      1,
+                                                      2,
+                                                      6,
+                                                      10,
+                                                      14,
+                                                      15
+                                                  ]
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "easy",
+                        "prompt":  "Number Path easy #8",
+                        "tags":  [
+                                     "logic",
+                                     "arithmetic"
+                                 ]
+                    },
+                    {
+                        "id":  "np_easy_09",
+                        "type":  "number_paths",
+                        "initial_state":  {
+                                              "start":  0,
+                                              "cols":  4,
+                                              "blocked":  [
+
+                                                          ],
+                                              "must_visit":  [
+                                                                 6,
+                                                                 10
+                                                             ],
+                                              "order_clues":  {
+                                                                  "6":  4,
+                                                                  "0":  1
+                                                              },
+                                              "end":  15,
+                                              "path":  [
+                                                           0
+                                                       ],
+                                              "rows":  4
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Move orthogonally.",
+                                      "Do not revisit cells.",
+                                      "End on E."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "path":  [
+                                                      0,
+                                                      1,
+                                                      2,
+                                                      6,
+                                                      10,
+                                                      14,
+                                                      15
+                                                  ]
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "easy",
+                        "prompt":  "Number Path easy #9",
+                        "tags":  [
+                                     "logic",
+                                     "arithmetic"
+                                 ]
+                    },
+                    {
+                        "id":  "np_easy_10",
+                        "type":  "number_paths",
+                        "initial_state":  {
+                                              "start":  0,
+                                              "cols":  4,
+                                              "blocked":  [
+
+                                                          ],
+                                              "must_visit":  [
+                                                                 6,
+                                                                 10
+                                                             ],
+                                              "order_clues":  {
+                                                                  "6":  4,
+                                                                  "0":  1
+                                                              },
+                                              "end":  15,
+                                              "path":  [
+                                                           0
+                                                       ],
+                                              "rows":  4
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Move orthogonally.",
+                                      "Do not revisit cells.",
+                                      "End on E."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "path":  [
+                                                      0,
+                                                      1,
+                                                      2,
+                                                      6,
+                                                      10,
+                                                      14,
+                                                      15
+                                                  ]
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "easy",
+                        "prompt":  "Number Path easy #10",
+                        "tags":  [
+                                     "logic",
+                                     "arithmetic"
+                                 ]
+                    },
+                    {
+                        "id":  "np_medium_01",
+                        "type":  "number_paths",
+                        "initial_state":  {
+                                              "start":  0,
+                                              "cols":  4,
+                                              "blocked":  [
+
+                                                          ],
+                                              "must_visit":  [
+                                                                 6,
+                                                                 10
+                                                             ],
+                                              "order_clues":  {
+                                                                  "6":  4,
+                                                                  "0":  1
+                                                              },
+                                              "end":  15,
+                                              "path":  [
+                                                           0
+                                                       ],
+                                              "rows":  4
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Move orthogonally.",
+                                      "Do not revisit cells.",
+                                      "End on E."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "path":  [
+                                                      0,
+                                                      1,
+                                                      2,
+                                                      6,
+                                                      10,
+                                                      14,
+                                                      15
+                                                  ]
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "medium",
+                        "prompt":  "Number Path medium #1",
+                        "tags":  [
+                                     "logic",
+                                     "arithmetic"
+                                 ]
+                    },
+                    {
+                        "id":  "np_medium_02",
+                        "type":  "number_paths",
+                        "initial_state":  {
+                                              "start":  0,
+                                              "cols":  4,
+                                              "blocked":  [
+
+                                                          ],
+                                              "must_visit":  [
+                                                                 6,
+                                                                 10
+                                                             ],
+                                              "order_clues":  {
+                                                                  "6":  4,
+                                                                  "0":  1
+                                                              },
+                                              "end":  15,
+                                              "path":  [
+                                                           0
+                                                       ],
+                                              "rows":  4
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Move orthogonally.",
+                                      "Do not revisit cells.",
+                                      "End on E."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "path":  [
+                                                      0,
+                                                      1,
+                                                      2,
+                                                      6,
+                                                      10,
+                                                      14,
+                                                      15
+                                                  ]
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "medium",
+                        "prompt":  "Number Path medium #2",
+                        "tags":  [
+                                     "logic",
+                                     "arithmetic"
+                                 ]
+                    },
+                    {
+                        "id":  "np_medium_03",
+                        "type":  "number_paths",
+                        "initial_state":  {
+                                              "start":  0,
+                                              "cols":  4,
+                                              "blocked":  [
+
+                                                          ],
+                                              "must_visit":  [
+                                                                 6,
+                                                                 10
+                                                             ],
+                                              "order_clues":  {
+                                                                  "6":  4,
+                                                                  "0":  1
+                                                              },
+                                              "end":  15,
+                                              "path":  [
+                                                           0
+                                                       ],
+                                              "rows":  4
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Move orthogonally.",
+                                      "Do not revisit cells.",
+                                      "End on E."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "path":  [
+                                                      0,
+                                                      1,
+                                                      2,
+                                                      6,
+                                                      10,
+                                                      14,
+                                                      15
+                                                  ]
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "medium",
+                        "prompt":  "Number Path medium #3",
+                        "tags":  [
+                                     "logic",
+                                     "arithmetic"
+                                 ]
+                    },
+                    {
+                        "id":  "np_medium_04",
+                        "type":  "number_paths",
+                        "initial_state":  {
+                                              "start":  0,
+                                              "cols":  4,
+                                              "blocked":  [
+
+                                                          ],
+                                              "must_visit":  [
+                                                                 6,
+                                                                 10
+                                                             ],
+                                              "order_clues":  {
+                                                                  "6":  4,
+                                                                  "0":  1
+                                                              },
+                                              "end":  15,
+                                              "path":  [
+                                                           0
+                                                       ],
+                                              "rows":  4
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Move orthogonally.",
+                                      "Do not revisit cells.",
+                                      "End on E."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "path":  [
+                                                      0,
+                                                      1,
+                                                      2,
+                                                      6,
+                                                      10,
+                                                      14,
+                                                      15
+                                                  ]
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "medium",
+                        "prompt":  "Number Path medium #4",
+                        "tags":  [
+                                     "logic",
+                                     "arithmetic"
+                                 ]
+                    },
+                    {
+                        "id":  "np_medium_05",
+                        "type":  "number_paths",
+                        "initial_state":  {
+                                              "start":  0,
+                                              "cols":  4,
+                                              "blocked":  [
+
+                                                          ],
+                                              "must_visit":  [
+                                                                 6,
+                                                                 10
+                                                             ],
+                                              "order_clues":  {
+                                                                  "6":  4,
+                                                                  "0":  1
+                                                              },
+                                              "end":  15,
+                                              "path":  [
+                                                           0
+                                                       ],
+                                              "rows":  4
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Move orthogonally.",
+                                      "Do not revisit cells.",
+                                      "End on E."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "path":  [
+                                                      0,
+                                                      1,
+                                                      2,
+                                                      6,
+                                                      10,
+                                                      14,
+                                                      15
+                                                  ]
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "medium",
+                        "prompt":  "Number Path medium #5",
+                        "tags":  [
+                                     "logic",
+                                     "arithmetic"
+                                 ]
+                    },
+                    {
+                        "id":  "np_medium_06",
+                        "type":  "number_paths",
+                        "initial_state":  {
+                                              "start":  0,
+                                              "cols":  4,
+                                              "blocked":  [
+
+                                                          ],
+                                              "must_visit":  [
+                                                                 6,
+                                                                 10
+                                                             ],
+                                              "order_clues":  {
+                                                                  "6":  4,
+                                                                  "0":  1
+                                                              },
+                                              "end":  15,
+                                              "path":  [
+                                                           0
+                                                       ],
+                                              "rows":  4
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Move orthogonally.",
+                                      "Do not revisit cells.",
+                                      "End on E."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "path":  [
+                                                      0,
+                                                      1,
+                                                      2,
+                                                      6,
+                                                      10,
+                                                      14,
+                                                      15
+                                                  ]
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "medium",
+                        "prompt":  "Number Path medium #6",
+                        "tags":  [
+                                     "logic",
+                                     "arithmetic"
+                                 ]
+                    },
+                    {
+                        "id":  "np_medium_07",
+                        "type":  "number_paths",
+                        "initial_state":  {
+                                              "start":  0,
+                                              "cols":  4,
+                                              "blocked":  [
+
+                                                          ],
+                                              "must_visit":  [
+                                                                 6,
+                                                                 10
+                                                             ],
+                                              "order_clues":  {
+                                                                  "6":  4,
+                                                                  "0":  1
+                                                              },
+                                              "end":  15,
+                                              "path":  [
+                                                           0
+                                                       ],
+                                              "rows":  4
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Move orthogonally.",
+                                      "Do not revisit cells.",
+                                      "End on E."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "path":  [
+                                                      0,
+                                                      1,
+                                                      2,
+                                                      6,
+                                                      10,
+                                                      14,
+                                                      15
+                                                  ]
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "medium",
+                        "prompt":  "Number Path medium #7",
+                        "tags":  [
+                                     "logic",
+                                     "arithmetic"
+                                 ]
+                    },
+                    {
+                        "id":  "np_medium_08",
+                        "type":  "number_paths",
+                        "initial_state":  {
+                                              "start":  0,
+                                              "cols":  4,
+                                              "blocked":  [
+
+                                                          ],
+                                              "must_visit":  [
+                                                                 6,
+                                                                 10
+                                                             ],
+                                              "order_clues":  {
+                                                                  "6":  4,
+                                                                  "0":  1
+                                                              },
+                                              "end":  15,
+                                              "path":  [
+                                                           0
+                                                       ],
+                                              "rows":  4
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Move orthogonally.",
+                                      "Do not revisit cells.",
+                                      "End on E."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "path":  [
+                                                      0,
+                                                      1,
+                                                      2,
+                                                      6,
+                                                      10,
+                                                      14,
+                                                      15
+                                                  ]
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "medium",
+                        "prompt":  "Number Path medium #8",
+                        "tags":  [
+                                     "logic",
+                                     "arithmetic"
+                                 ]
+                    },
+                    {
+                        "id":  "np_medium_09",
+                        "type":  "number_paths",
+                        "initial_state":  {
+                                              "start":  0,
+                                              "cols":  4,
+                                              "blocked":  [
+
+                                                          ],
+                                              "must_visit":  [
+                                                                 6,
+                                                                 10
+                                                             ],
+                                              "order_clues":  {
+                                                                  "6":  4,
+                                                                  "0":  1
+                                                              },
+                                              "end":  15,
+                                              "path":  [
+                                                           0
+                                                       ],
+                                              "rows":  4
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Move orthogonally.",
+                                      "Do not revisit cells.",
+                                      "End on E."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "path":  [
+                                                      0,
+                                                      1,
+                                                      2,
+                                                      6,
+                                                      10,
+                                                      14,
+                                                      15
+                                                  ]
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "medium",
+                        "prompt":  "Number Path medium #9",
+                        "tags":  [
+                                     "logic",
+                                     "arithmetic"
+                                 ]
+                    },
+                    {
+                        "id":  "np_medium_10",
+                        "type":  "number_paths",
+                        "initial_state":  {
+                                              "start":  0,
+                                              "cols":  4,
+                                              "blocked":  [
+
+                                                          ],
+                                              "must_visit":  [
+                                                                 6,
+                                                                 10
+                                                             ],
+                                              "order_clues":  {
+                                                                  "6":  4,
+                                                                  "0":  1
+                                                              },
+                                              "end":  15,
+                                              "path":  [
+                                                           0
+                                                       ],
+                                              "rows":  4
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Move orthogonally.",
+                                      "Do not revisit cells.",
+                                      "End on E."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "path":  [
+                                                      0,
+                                                      1,
+                                                      2,
+                                                      6,
+                                                      10,
+                                                      14,
+                                                      15
+                                                  ]
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "medium",
+                        "prompt":  "Number Path medium #10",
+                        "tags":  [
+                                     "logic",
+                                     "arithmetic"
+                                 ]
+                    },
+                    {
+                        "id":  "np_hard_01",
+                        "type":  "number_paths",
+                        "initial_state":  {
+                                              "start":  0,
+                                              "cols":  4,
+                                              "blocked":  [
+
+                                                          ],
+                                              "must_visit":  [
+                                                                 6,
+                                                                 10
+                                                             ],
+                                              "order_clues":  {
+                                                                  "6":  4,
+                                                                  "0":  1
+                                                              },
+                                              "end":  15,
+                                              "path":  [
+                                                           0
+                                                       ],
+                                              "rows":  4
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Move orthogonally.",
+                                      "Do not revisit cells.",
+                                      "End on E."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "path":  [
+                                                      0,
+                                                      1,
+                                                      2,
+                                                      6,
+                                                      10,
+                                                      14,
+                                                      15
+                                                  ]
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "hard",
+                        "prompt":  "Number Path hard #1",
+                        "tags":  [
+                                     "logic",
+                                     "arithmetic"
+                                 ]
+                    },
+                    {
+                        "id":  "np_hard_02",
+                        "type":  "number_paths",
+                        "initial_state":  {
+                                              "start":  0,
+                                              "cols":  4,
+                                              "blocked":  [
+
+                                                          ],
+                                              "must_visit":  [
+                                                                 6,
+                                                                 10
+                                                             ],
+                                              "order_clues":  {
+                                                                  "6":  4,
+                                                                  "0":  1
+                                                              },
+                                              "end":  15,
+                                              "path":  [
+                                                           0
+                                                       ],
+                                              "rows":  4
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Move orthogonally.",
+                                      "Do not revisit cells.",
+                                      "End on E."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "path":  [
+                                                      0,
+                                                      1,
+                                                      2,
+                                                      6,
+                                                      10,
+                                                      14,
+                                                      15
+                                                  ]
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "hard",
+                        "prompt":  "Number Path hard #2",
+                        "tags":  [
+                                     "logic",
+                                     "arithmetic"
+                                 ]
+                    },
+                    {
+                        "id":  "np_hard_03",
+                        "type":  "number_paths",
+                        "initial_state":  {
+                                              "start":  0,
+                                              "cols":  4,
+                                              "blocked":  [
+
+                                                          ],
+                                              "must_visit":  [
+                                                                 6,
+                                                                 10
+                                                             ],
+                                              "order_clues":  {
+                                                                  "6":  4,
+                                                                  "0":  1
+                                                              },
+                                              "end":  15,
+                                              "path":  [
+                                                           0
+                                                       ],
+                                              "rows":  4
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Move orthogonally.",
+                                      "Do not revisit cells.",
+                                      "End on E."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "path":  [
+                                                      0,
+                                                      1,
+                                                      2,
+                                                      6,
+                                                      10,
+                                                      14,
+                                                      15
+                                                  ]
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "hard",
+                        "prompt":  "Number Path hard #3",
+                        "tags":  [
+                                     "logic",
+                                     "arithmetic"
+                                 ]
+                    },
+                    {
+                        "id":  "np_hard_04",
+                        "type":  "number_paths",
+                        "initial_state":  {
+                                              "start":  0,
+                                              "cols":  4,
+                                              "blocked":  [
+
+                                                          ],
+                                              "must_visit":  [
+                                                                 6,
+                                                                 10
+                                                             ],
+                                              "order_clues":  {
+                                                                  "6":  4,
+                                                                  "0":  1
+                                                              },
+                                              "end":  15,
+                                              "path":  [
+                                                           0
+                                                       ],
+                                              "rows":  4
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Move orthogonally.",
+                                      "Do not revisit cells.",
+                                      "End on E."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "path":  [
+                                                      0,
+                                                      1,
+                                                      2,
+                                                      6,
+                                                      10,
+                                                      14,
+                                                      15
+                                                  ]
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "hard",
+                        "prompt":  "Number Path hard #4",
+                        "tags":  [
+                                     "logic",
+                                     "arithmetic"
+                                 ]
+                    },
+                    {
+                        "id":  "np_hard_05",
+                        "type":  "number_paths",
+                        "initial_state":  {
+                                              "start":  0,
+                                              "cols":  4,
+                                              "blocked":  [
+
+                                                          ],
+                                              "must_visit":  [
+                                                                 6,
+                                                                 10
+                                                             ],
+                                              "order_clues":  {
+                                                                  "6":  4,
+                                                                  "0":  1
+                                                              },
+                                              "end":  15,
+                                              "path":  [
+                                                           0
+                                                       ],
+                                              "rows":  4
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Move orthogonally.",
+                                      "Do not revisit cells.",
+                                      "End on E."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "path":  [
+                                                      0,
+                                                      1,
+                                                      2,
+                                                      6,
+                                                      10,
+                                                      14,
+                                                      15
+                                                  ]
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "hard",
+                        "prompt":  "Number Path hard #5",
+                        "tags":  [
+                                     "logic",
+                                     "arithmetic"
+                                 ]
+                    },
+                    {
+                        "id":  "np_hard_06",
+                        "type":  "number_paths",
+                        "initial_state":  {
+                                              "start":  0,
+                                              "cols":  4,
+                                              "blocked":  [
+
+                                                          ],
+                                              "must_visit":  [
+                                                                 6,
+                                                                 10
+                                                             ],
+                                              "order_clues":  {
+                                                                  "6":  4,
+                                                                  "0":  1
+                                                              },
+                                              "end":  15,
+                                              "path":  [
+                                                           0
+                                                       ],
+                                              "rows":  4
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Move orthogonally.",
+                                      "Do not revisit cells.",
+                                      "End on E."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "path":  [
+                                                      0,
+                                                      1,
+                                                      2,
+                                                      6,
+                                                      10,
+                                                      14,
+                                                      15
+                                                  ]
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "hard",
+                        "prompt":  "Number Path hard #6",
+                        "tags":  [
+                                     "logic",
+                                     "arithmetic"
+                                 ]
+                    },
+                    {
+                        "id":  "np_hard_07",
+                        "type":  "number_paths",
+                        "initial_state":  {
+                                              "start":  0,
+                                              "cols":  4,
+                                              "blocked":  [
+
+                                                          ],
+                                              "must_visit":  [
+                                                                 6,
+                                                                 10
+                                                             ],
+                                              "order_clues":  {
+                                                                  "6":  4,
+                                                                  "0":  1
+                                                              },
+                                              "end":  15,
+                                              "path":  [
+                                                           0
+                                                       ],
+                                              "rows":  4
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Move orthogonally.",
+                                      "Do not revisit cells.",
+                                      "End on E."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "path":  [
+                                                      0,
+                                                      1,
+                                                      2,
+                                                      6,
+                                                      10,
+                                                      14,
+                                                      15
+                                                  ]
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "hard",
+                        "prompt":  "Number Path hard #7",
+                        "tags":  [
+                                     "logic",
+                                     "arithmetic"
+                                 ]
+                    },
+                    {
+                        "id":  "np_hard_08",
+                        "type":  "number_paths",
+                        "initial_state":  {
+                                              "start":  0,
+                                              "cols":  4,
+                                              "blocked":  [
+
+                                                          ],
+                                              "must_visit":  [
+                                                                 6,
+                                                                 10
+                                                             ],
+                                              "order_clues":  {
+                                                                  "6":  4,
+                                                                  "0":  1
+                                                              },
+                                              "end":  15,
+                                              "path":  [
+                                                           0
+                                                       ],
+                                              "rows":  4
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Move orthogonally.",
+                                      "Do not revisit cells.",
+                                      "End on E."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "path":  [
+                                                      0,
+                                                      1,
+                                                      2,
+                                                      6,
+                                                      10,
+                                                      14,
+                                                      15
+                                                  ]
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "hard",
+                        "prompt":  "Number Path hard #8",
+                        "tags":  [
+                                     "logic",
+                                     "arithmetic"
+                                 ]
+                    },
+                    {
+                        "id":  "np_hard_09",
+                        "type":  "number_paths",
+                        "initial_state":  {
+                                              "start":  0,
+                                              "cols":  4,
+                                              "blocked":  [
+
+                                                          ],
+                                              "must_visit":  [
+                                                                 6,
+                                                                 10
+                                                             ],
+                                              "order_clues":  {
+                                                                  "6":  4,
+                                                                  "0":  1
+                                                              },
+                                              "end":  15,
+                                              "path":  [
+                                                           0
+                                                       ],
+                                              "rows":  4
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Move orthogonally.",
+                                      "Do not revisit cells.",
+                                      "End on E."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "path":  [
+                                                      0,
+                                                      1,
+                                                      2,
+                                                      6,
+                                                      10,
+                                                      14,
+                                                      15
+                                                  ]
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "hard",
+                        "prompt":  "Number Path hard #9",
+                        "tags":  [
+                                     "logic",
+                                     "arithmetic"
+                                 ]
+                    },
+                    {
+                        "id":  "np_hard_10",
+                        "type":  "number_paths",
+                        "initial_state":  {
+                                              "start":  0,
+                                              "cols":  4,
+                                              "blocked":  [
+
+                                                          ],
+                                              "must_visit":  [
+                                                                 6,
+                                                                 10
+                                                             ],
+                                              "order_clues":  {
+                                                                  "6":  4,
+                                                                  "0":  1
+                                                              },
+                                              "end":  15,
+                                              "path":  [
+                                                           0
+                                                       ],
+                                              "rows":  4
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Move orthogonally.",
+                                      "Do not revisit cells.",
+                                      "End on E."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "path":  [
+                                                      0,
+                                                      1,
+                                                      2,
+                                                      6,
+                                                      10,
+                                                      14,
+                                                      15
+                                                  ]
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "hard",
+                        "prompt":  "Number Path hard #10",
+                        "tags":  [
+                                     "logic",
+                                     "arithmetic"
+                                 ]
+                    }
+                ]
+}

@@ -1,0 +1,2044 @@
+{
+    "puzzles":  [
+                    {
+                        "id":  "cross_easy_01",
+                        "type":  "crosswords",
+                        "initial_state":  {
+                                              "answers":  {
+
+                                                          },
+                                              "grid":  [
+                                                           "...",
+                                                           "...",
+                                                           "..."
+                                                       ],
+                                              "clues":  [
+                                                            {
+                                                                "clue":  "2+3",
+                                                                "direction":  "across",
+                                                                "id":  "A1",
+                                                                "length":  2
+                                                            },
+                                                            {
+                                                                "clue":  "skip count by 2 from 4",
+                                                                "direction":  "down",
+                                                                "id":  "D1",
+                                                                "length":  2
+                                                            }
+                                                        ]
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Solve each arithmetic clue.",
+                                      "Fill all entries."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "answers":  {
+                                                         "D1":  "46",
+                                                         "A1":  "5"
+                                                     }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "easy",
+                        "prompt":  "Crossword easy #1",
+                        "tags":  [
+                                     "arithmetic",
+                                     "pattern"
+                                 ]
+                    },
+                    {
+                        "id":  "cross_easy_02",
+                        "type":  "crosswords",
+                        "initial_state":  {
+                                              "answers":  {
+
+                                                          },
+                                              "grid":  [
+                                                           "...",
+                                                           "...",
+                                                           "..."
+                                                       ],
+                                              "clues":  [
+                                                            {
+                                                                "clue":  "2+3",
+                                                                "direction":  "across",
+                                                                "id":  "A1",
+                                                                "length":  2
+                                                            },
+                                                            {
+                                                                "clue":  "skip count by 2 from 4",
+                                                                "direction":  "down",
+                                                                "id":  "D1",
+                                                                "length":  2
+                                                            }
+                                                        ]
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Solve each arithmetic clue.",
+                                      "Fill all entries."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "answers":  {
+                                                         "D1":  "46",
+                                                         "A1":  "5"
+                                                     }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "easy",
+                        "prompt":  "Crossword easy #2",
+                        "tags":  [
+                                     "arithmetic",
+                                     "pattern"
+                                 ]
+                    },
+                    {
+                        "id":  "cross_easy_03",
+                        "type":  "crosswords",
+                        "initial_state":  {
+                                              "answers":  {
+
+                                                          },
+                                              "grid":  [
+                                                           "...",
+                                                           "...",
+                                                           "..."
+                                                       ],
+                                              "clues":  [
+                                                            {
+                                                                "clue":  "2+3",
+                                                                "direction":  "across",
+                                                                "id":  "A1",
+                                                                "length":  2
+                                                            },
+                                                            {
+                                                                "clue":  "skip count by 2 from 4",
+                                                                "direction":  "down",
+                                                                "id":  "D1",
+                                                                "length":  2
+                                                            }
+                                                        ]
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Solve each arithmetic clue.",
+                                      "Fill all entries."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "answers":  {
+                                                         "D1":  "46",
+                                                         "A1":  "5"
+                                                     }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "easy",
+                        "prompt":  "Crossword easy #3",
+                        "tags":  [
+                                     "arithmetic",
+                                     "pattern"
+                                 ]
+                    },
+                    {
+                        "id":  "cross_easy_04",
+                        "type":  "crosswords",
+                        "initial_state":  {
+                                              "answers":  {
+
+                                                          },
+                                              "grid":  [
+                                                           "...",
+                                                           "...",
+                                                           "..."
+                                                       ],
+                                              "clues":  [
+                                                            {
+                                                                "clue":  "2+3",
+                                                                "direction":  "across",
+                                                                "id":  "A1",
+                                                                "length":  2
+                                                            },
+                                                            {
+                                                                "clue":  "skip count by 2 from 4",
+                                                                "direction":  "down",
+                                                                "id":  "D1",
+                                                                "length":  2
+                                                            }
+                                                        ]
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Solve each arithmetic clue.",
+                                      "Fill all entries."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "answers":  {
+                                                         "D1":  "46",
+                                                         "A1":  "5"
+                                                     }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "easy",
+                        "prompt":  "Crossword easy #4",
+                        "tags":  [
+                                     "arithmetic",
+                                     "pattern"
+                                 ]
+                    },
+                    {
+                        "id":  "cross_easy_05",
+                        "type":  "crosswords",
+                        "initial_state":  {
+                                              "answers":  {
+
+                                                          },
+                                              "grid":  [
+                                                           "...",
+                                                           "...",
+                                                           "..."
+                                                       ],
+                                              "clues":  [
+                                                            {
+                                                                "clue":  "2+3",
+                                                                "direction":  "across",
+                                                                "id":  "A1",
+                                                                "length":  2
+                                                            },
+                                                            {
+                                                                "clue":  "skip count by 2 from 4",
+                                                                "direction":  "down",
+                                                                "id":  "D1",
+                                                                "length":  2
+                                                            }
+                                                        ]
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Solve each arithmetic clue.",
+                                      "Fill all entries."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "answers":  {
+                                                         "D1":  "46",
+                                                         "A1":  "5"
+                                                     }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "easy",
+                        "prompt":  "Crossword easy #5",
+                        "tags":  [
+                                     "arithmetic",
+                                     "pattern"
+                                 ]
+                    },
+                    {
+                        "id":  "cross_easy_06",
+                        "type":  "crosswords",
+                        "initial_state":  {
+                                              "answers":  {
+
+                                                          },
+                                              "grid":  [
+                                                           "...",
+                                                           "...",
+                                                           "..."
+                                                       ],
+                                              "clues":  [
+                                                            {
+                                                                "clue":  "2+3",
+                                                                "direction":  "across",
+                                                                "id":  "A1",
+                                                                "length":  2
+                                                            },
+                                                            {
+                                                                "clue":  "skip count by 2 from 4",
+                                                                "direction":  "down",
+                                                                "id":  "D1",
+                                                                "length":  2
+                                                            }
+                                                        ]
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Solve each arithmetic clue.",
+                                      "Fill all entries."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "answers":  {
+                                                         "D1":  "46",
+                                                         "A1":  "5"
+                                                     }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "easy",
+                        "prompt":  "Crossword easy #6",
+                        "tags":  [
+                                     "arithmetic",
+                                     "pattern"
+                                 ]
+                    },
+                    {
+                        "id":  "cross_easy_07",
+                        "type":  "crosswords",
+                        "initial_state":  {
+                                              "answers":  {
+
+                                                          },
+                                              "grid":  [
+                                                           "...",
+                                                           "...",
+                                                           "..."
+                                                       ],
+                                              "clues":  [
+                                                            {
+                                                                "clue":  "2+3",
+                                                                "direction":  "across",
+                                                                "id":  "A1",
+                                                                "length":  2
+                                                            },
+                                                            {
+                                                                "clue":  "skip count by 2 from 4",
+                                                                "direction":  "down",
+                                                                "id":  "D1",
+                                                                "length":  2
+                                                            }
+                                                        ]
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Solve each arithmetic clue.",
+                                      "Fill all entries."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "answers":  {
+                                                         "D1":  "46",
+                                                         "A1":  "5"
+                                                     }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "easy",
+                        "prompt":  "Crossword easy #7",
+                        "tags":  [
+                                     "arithmetic",
+                                     "pattern"
+                                 ]
+                    },
+                    {
+                        "id":  "cross_easy_08",
+                        "type":  "crosswords",
+                        "initial_state":  {
+                                              "answers":  {
+
+                                                          },
+                                              "grid":  [
+                                                           "...",
+                                                           "...",
+                                                           "..."
+                                                       ],
+                                              "clues":  [
+                                                            {
+                                                                "clue":  "2+3",
+                                                                "direction":  "across",
+                                                                "id":  "A1",
+                                                                "length":  2
+                                                            },
+                                                            {
+                                                                "clue":  "skip count by 2 from 4",
+                                                                "direction":  "down",
+                                                                "id":  "D1",
+                                                                "length":  2
+                                                            }
+                                                        ]
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Solve each arithmetic clue.",
+                                      "Fill all entries."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "answers":  {
+                                                         "D1":  "46",
+                                                         "A1":  "5"
+                                                     }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "easy",
+                        "prompt":  "Crossword easy #8",
+                        "tags":  [
+                                     "arithmetic",
+                                     "pattern"
+                                 ]
+                    },
+                    {
+                        "id":  "cross_easy_09",
+                        "type":  "crosswords",
+                        "initial_state":  {
+                                              "answers":  {
+
+                                                          },
+                                              "grid":  [
+                                                           "...",
+                                                           "...",
+                                                           "..."
+                                                       ],
+                                              "clues":  [
+                                                            {
+                                                                "clue":  "2+3",
+                                                                "direction":  "across",
+                                                                "id":  "A1",
+                                                                "length":  2
+                                                            },
+                                                            {
+                                                                "clue":  "skip count by 2 from 4",
+                                                                "direction":  "down",
+                                                                "id":  "D1",
+                                                                "length":  2
+                                                            }
+                                                        ]
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Solve each arithmetic clue.",
+                                      "Fill all entries."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "answers":  {
+                                                         "D1":  "46",
+                                                         "A1":  "5"
+                                                     }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "easy",
+                        "prompt":  "Crossword easy #9",
+                        "tags":  [
+                                     "arithmetic",
+                                     "pattern"
+                                 ]
+                    },
+                    {
+                        "id":  "cross_easy_10",
+                        "type":  "crosswords",
+                        "initial_state":  {
+                                              "answers":  {
+
+                                                          },
+                                              "grid":  [
+                                                           "...",
+                                                           "...",
+                                                           "..."
+                                                       ],
+                                              "clues":  [
+                                                            {
+                                                                "clue":  "2+3",
+                                                                "direction":  "across",
+                                                                "id":  "A1",
+                                                                "length":  2
+                                                            },
+                                                            {
+                                                                "clue":  "skip count by 2 from 4",
+                                                                "direction":  "down",
+                                                                "id":  "D1",
+                                                                "length":  2
+                                                            }
+                                                        ]
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Solve each arithmetic clue.",
+                                      "Fill all entries."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "answers":  {
+                                                         "D1":  "46",
+                                                         "A1":  "5"
+                                                     }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "easy",
+                        "prompt":  "Crossword easy #10",
+                        "tags":  [
+                                     "arithmetic",
+                                     "pattern"
+                                 ]
+                    },
+                    {
+                        "id":  "cross_medium_01",
+                        "type":  "crosswords",
+                        "initial_state":  {
+                                              "answers":  {
+
+                                                          },
+                                              "grid":  [
+                                                           "...",
+                                                           "...",
+                                                           "..."
+                                                       ],
+                                              "clues":  [
+                                                            {
+                                                                "clue":  "2+3",
+                                                                "direction":  "across",
+                                                                "id":  "A1",
+                                                                "length":  2
+                                                            },
+                                                            {
+                                                                "clue":  "skip count by 2 from 4",
+                                                                "direction":  "down",
+                                                                "id":  "D1",
+                                                                "length":  2
+                                                            }
+                                                        ]
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Solve each arithmetic clue.",
+                                      "Fill all entries."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "answers":  {
+                                                         "D1":  "46",
+                                                         "A1":  "5"
+                                                     }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "medium",
+                        "prompt":  "Crossword medium #1",
+                        "tags":  [
+                                     "arithmetic",
+                                     "pattern"
+                                 ]
+                    },
+                    {
+                        "id":  "cross_medium_02",
+                        "type":  "crosswords",
+                        "initial_state":  {
+                                              "answers":  {
+
+                                                          },
+                                              "grid":  [
+                                                           "...",
+                                                           "...",
+                                                           "..."
+                                                       ],
+                                              "clues":  [
+                                                            {
+                                                                "clue":  "2+3",
+                                                                "direction":  "across",
+                                                                "id":  "A1",
+                                                                "length":  2
+                                                            },
+                                                            {
+                                                                "clue":  "skip count by 2 from 4",
+                                                                "direction":  "down",
+                                                                "id":  "D1",
+                                                                "length":  2
+                                                            }
+                                                        ]
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Solve each arithmetic clue.",
+                                      "Fill all entries."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "answers":  {
+                                                         "D1":  "46",
+                                                         "A1":  "5"
+                                                     }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "medium",
+                        "prompt":  "Crossword medium #2",
+                        "tags":  [
+                                     "arithmetic",
+                                     "pattern"
+                                 ]
+                    },
+                    {
+                        "id":  "cross_medium_03",
+                        "type":  "crosswords",
+                        "initial_state":  {
+                                              "answers":  {
+
+                                                          },
+                                              "grid":  [
+                                                           "...",
+                                                           "...",
+                                                           "..."
+                                                       ],
+                                              "clues":  [
+                                                            {
+                                                                "clue":  "2+3",
+                                                                "direction":  "across",
+                                                                "id":  "A1",
+                                                                "length":  2
+                                                            },
+                                                            {
+                                                                "clue":  "skip count by 2 from 4",
+                                                                "direction":  "down",
+                                                                "id":  "D1",
+                                                                "length":  2
+                                                            }
+                                                        ]
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Solve each arithmetic clue.",
+                                      "Fill all entries."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "answers":  {
+                                                         "D1":  "46",
+                                                         "A1":  "5"
+                                                     }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "medium",
+                        "prompt":  "Crossword medium #3",
+                        "tags":  [
+                                     "arithmetic",
+                                     "pattern"
+                                 ]
+                    },
+                    {
+                        "id":  "cross_medium_04",
+                        "type":  "crosswords",
+                        "initial_state":  {
+                                              "answers":  {
+
+                                                          },
+                                              "grid":  [
+                                                           "...",
+                                                           "...",
+                                                           "..."
+                                                       ],
+                                              "clues":  [
+                                                            {
+                                                                "clue":  "2+3",
+                                                                "direction":  "across",
+                                                                "id":  "A1",
+                                                                "length":  2
+                                                            },
+                                                            {
+                                                                "clue":  "skip count by 2 from 4",
+                                                                "direction":  "down",
+                                                                "id":  "D1",
+                                                                "length":  2
+                                                            }
+                                                        ]
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Solve each arithmetic clue.",
+                                      "Fill all entries."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "answers":  {
+                                                         "D1":  "46",
+                                                         "A1":  "5"
+                                                     }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "medium",
+                        "prompt":  "Crossword medium #4",
+                        "tags":  [
+                                     "arithmetic",
+                                     "pattern"
+                                 ]
+                    },
+                    {
+                        "id":  "cross_medium_05",
+                        "type":  "crosswords",
+                        "initial_state":  {
+                                              "answers":  {
+
+                                                          },
+                                              "grid":  [
+                                                           "...",
+                                                           "...",
+                                                           "..."
+                                                       ],
+                                              "clues":  [
+                                                            {
+                                                                "clue":  "2+3",
+                                                                "direction":  "across",
+                                                                "id":  "A1",
+                                                                "length":  2
+                                                            },
+                                                            {
+                                                                "clue":  "skip count by 2 from 4",
+                                                                "direction":  "down",
+                                                                "id":  "D1",
+                                                                "length":  2
+                                                            }
+                                                        ]
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Solve each arithmetic clue.",
+                                      "Fill all entries."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "answers":  {
+                                                         "D1":  "46",
+                                                         "A1":  "5"
+                                                     }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "medium",
+                        "prompt":  "Crossword medium #5",
+                        "tags":  [
+                                     "arithmetic",
+                                     "pattern"
+                                 ]
+                    },
+                    {
+                        "id":  "cross_medium_06",
+                        "type":  "crosswords",
+                        "initial_state":  {
+                                              "answers":  {
+
+                                                          },
+                                              "grid":  [
+                                                           "...",
+                                                           "...",
+                                                           "..."
+                                                       ],
+                                              "clues":  [
+                                                            {
+                                                                "clue":  "2+3",
+                                                                "direction":  "across",
+                                                                "id":  "A1",
+                                                                "length":  2
+                                                            },
+                                                            {
+                                                                "clue":  "skip count by 2 from 4",
+                                                                "direction":  "down",
+                                                                "id":  "D1",
+                                                                "length":  2
+                                                            }
+                                                        ]
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Solve each arithmetic clue.",
+                                      "Fill all entries."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "answers":  {
+                                                         "D1":  "46",
+                                                         "A1":  "5"
+                                                     }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "medium",
+                        "prompt":  "Crossword medium #6",
+                        "tags":  [
+                                     "arithmetic",
+                                     "pattern"
+                                 ]
+                    },
+                    {
+                        "id":  "cross_medium_07",
+                        "type":  "crosswords",
+                        "initial_state":  {
+                                              "answers":  {
+
+                                                          },
+                                              "grid":  [
+                                                           "...",
+                                                           "...",
+                                                           "..."
+                                                       ],
+                                              "clues":  [
+                                                            {
+                                                                "clue":  "2+3",
+                                                                "direction":  "across",
+                                                                "id":  "A1",
+                                                                "length":  2
+                                                            },
+                                                            {
+                                                                "clue":  "skip count by 2 from 4",
+                                                                "direction":  "down",
+                                                                "id":  "D1",
+                                                                "length":  2
+                                                            }
+                                                        ]
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Solve each arithmetic clue.",
+                                      "Fill all entries."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "answers":  {
+                                                         "D1":  "46",
+                                                         "A1":  "5"
+                                                     }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "medium",
+                        "prompt":  "Crossword medium #7",
+                        "tags":  [
+                                     "arithmetic",
+                                     "pattern"
+                                 ]
+                    },
+                    {
+                        "id":  "cross_medium_08",
+                        "type":  "crosswords",
+                        "initial_state":  {
+                                              "answers":  {
+
+                                                          },
+                                              "grid":  [
+                                                           "...",
+                                                           "...",
+                                                           "..."
+                                                       ],
+                                              "clues":  [
+                                                            {
+                                                                "clue":  "2+3",
+                                                                "direction":  "across",
+                                                                "id":  "A1",
+                                                                "length":  2
+                                                            },
+                                                            {
+                                                                "clue":  "skip count by 2 from 4",
+                                                                "direction":  "down",
+                                                                "id":  "D1",
+                                                                "length":  2
+                                                            }
+                                                        ]
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Solve each arithmetic clue.",
+                                      "Fill all entries."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "answers":  {
+                                                         "D1":  "46",
+                                                         "A1":  "5"
+                                                     }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "medium",
+                        "prompt":  "Crossword medium #8",
+                        "tags":  [
+                                     "arithmetic",
+                                     "pattern"
+                                 ]
+                    },
+                    {
+                        "id":  "cross_medium_09",
+                        "type":  "crosswords",
+                        "initial_state":  {
+                                              "answers":  {
+
+                                                          },
+                                              "grid":  [
+                                                           "...",
+                                                           "...",
+                                                           "..."
+                                                       ],
+                                              "clues":  [
+                                                            {
+                                                                "clue":  "2+3",
+                                                                "direction":  "across",
+                                                                "id":  "A1",
+                                                                "length":  2
+                                                            },
+                                                            {
+                                                                "clue":  "skip count by 2 from 4",
+                                                                "direction":  "down",
+                                                                "id":  "D1",
+                                                                "length":  2
+                                                            }
+                                                        ]
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Solve each arithmetic clue.",
+                                      "Fill all entries."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "answers":  {
+                                                         "D1":  "46",
+                                                         "A1":  "5"
+                                                     }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "medium",
+                        "prompt":  "Crossword medium #9",
+                        "tags":  [
+                                     "arithmetic",
+                                     "pattern"
+                                 ]
+                    },
+                    {
+                        "id":  "cross_medium_10",
+                        "type":  "crosswords",
+                        "initial_state":  {
+                                              "answers":  {
+
+                                                          },
+                                              "grid":  [
+                                                           "...",
+                                                           "...",
+                                                           "..."
+                                                       ],
+                                              "clues":  [
+                                                            {
+                                                                "clue":  "2+3",
+                                                                "direction":  "across",
+                                                                "id":  "A1",
+                                                                "length":  2
+                                                            },
+                                                            {
+                                                                "clue":  "skip count by 2 from 4",
+                                                                "direction":  "down",
+                                                                "id":  "D1",
+                                                                "length":  2
+                                                            }
+                                                        ]
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Solve each arithmetic clue.",
+                                      "Fill all entries."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "answers":  {
+                                                         "D1":  "46",
+                                                         "A1":  "5"
+                                                     }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "medium",
+                        "prompt":  "Crossword medium #10",
+                        "tags":  [
+                                     "arithmetic",
+                                     "pattern"
+                                 ]
+                    },
+                    {
+                        "id":  "cross_hard_01",
+                        "type":  "crosswords",
+                        "initial_state":  {
+                                              "answers":  {
+
+                                                          },
+                                              "grid":  [
+                                                           "...",
+                                                           "...",
+                                                           "..."
+                                                       ],
+                                              "clues":  [
+                                                            {
+                                                                "clue":  "2+3",
+                                                                "direction":  "across",
+                                                                "id":  "A1",
+                                                                "length":  2
+                                                            },
+                                                            {
+                                                                "clue":  "skip count by 2 from 4",
+                                                                "direction":  "down",
+                                                                "id":  "D1",
+                                                                "length":  2
+                                                            }
+                                                        ]
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Solve each arithmetic clue.",
+                                      "Fill all entries."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "answers":  {
+                                                         "D1":  "46",
+                                                         "A1":  "5"
+                                                     }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "hard",
+                        "prompt":  "Crossword hard #1",
+                        "tags":  [
+                                     "arithmetic",
+                                     "pattern"
+                                 ]
+                    },
+                    {
+                        "id":  "cross_hard_02",
+                        "type":  "crosswords",
+                        "initial_state":  {
+                                              "answers":  {
+
+                                                          },
+                                              "grid":  [
+                                                           "...",
+                                                           "...",
+                                                           "..."
+                                                       ],
+                                              "clues":  [
+                                                            {
+                                                                "clue":  "2+3",
+                                                                "direction":  "across",
+                                                                "id":  "A1",
+                                                                "length":  2
+                                                            },
+                                                            {
+                                                                "clue":  "skip count by 2 from 4",
+                                                                "direction":  "down",
+                                                                "id":  "D1",
+                                                                "length":  2
+                                                            }
+                                                        ]
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Solve each arithmetic clue.",
+                                      "Fill all entries."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "answers":  {
+                                                         "D1":  "46",
+                                                         "A1":  "5"
+                                                     }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "hard",
+                        "prompt":  "Crossword hard #2",
+                        "tags":  [
+                                     "arithmetic",
+                                     "pattern"
+                                 ]
+                    },
+                    {
+                        "id":  "cross_hard_03",
+                        "type":  "crosswords",
+                        "initial_state":  {
+                                              "answers":  {
+
+                                                          },
+                                              "grid":  [
+                                                           "...",
+                                                           "...",
+                                                           "..."
+                                                       ],
+                                              "clues":  [
+                                                            {
+                                                                "clue":  "2+3",
+                                                                "direction":  "across",
+                                                                "id":  "A1",
+                                                                "length":  2
+                                                            },
+                                                            {
+                                                                "clue":  "skip count by 2 from 4",
+                                                                "direction":  "down",
+                                                                "id":  "D1",
+                                                                "length":  2
+                                                            }
+                                                        ]
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Solve each arithmetic clue.",
+                                      "Fill all entries."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "answers":  {
+                                                         "D1":  "46",
+                                                         "A1":  "5"
+                                                     }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "hard",
+                        "prompt":  "Crossword hard #3",
+                        "tags":  [
+                                     "arithmetic",
+                                     "pattern"
+                                 ]
+                    },
+                    {
+                        "id":  "cross_hard_04",
+                        "type":  "crosswords",
+                        "initial_state":  {
+                                              "answers":  {
+
+                                                          },
+                                              "grid":  [
+                                                           "...",
+                                                           "...",
+                                                           "..."
+                                                       ],
+                                              "clues":  [
+                                                            {
+                                                                "clue":  "2+3",
+                                                                "direction":  "across",
+                                                                "id":  "A1",
+                                                                "length":  2
+                                                            },
+                                                            {
+                                                                "clue":  "skip count by 2 from 4",
+                                                                "direction":  "down",
+                                                                "id":  "D1",
+                                                                "length":  2
+                                                            }
+                                                        ]
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Solve each arithmetic clue.",
+                                      "Fill all entries."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "answers":  {
+                                                         "D1":  "46",
+                                                         "A1":  "5"
+                                                     }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "hard",
+                        "prompt":  "Crossword hard #4",
+                        "tags":  [
+                                     "arithmetic",
+                                     "pattern"
+                                 ]
+                    },
+                    {
+                        "id":  "cross_hard_05",
+                        "type":  "crosswords",
+                        "initial_state":  {
+                                              "answers":  {
+
+                                                          },
+                                              "grid":  [
+                                                           "...",
+                                                           "...",
+                                                           "..."
+                                                       ],
+                                              "clues":  [
+                                                            {
+                                                                "clue":  "2+3",
+                                                                "direction":  "across",
+                                                                "id":  "A1",
+                                                                "length":  2
+                                                            },
+                                                            {
+                                                                "clue":  "skip count by 2 from 4",
+                                                                "direction":  "down",
+                                                                "id":  "D1",
+                                                                "length":  2
+                                                            }
+                                                        ]
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Solve each arithmetic clue.",
+                                      "Fill all entries."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "answers":  {
+                                                         "D1":  "46",
+                                                         "A1":  "5"
+                                                     }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "hard",
+                        "prompt":  "Crossword hard #5",
+                        "tags":  [
+                                     "arithmetic",
+                                     "pattern"
+                                 ]
+                    },
+                    {
+                        "id":  "cross_hard_06",
+                        "type":  "crosswords",
+                        "initial_state":  {
+                                              "answers":  {
+
+                                                          },
+                                              "grid":  [
+                                                           "...",
+                                                           "...",
+                                                           "..."
+                                                       ],
+                                              "clues":  [
+                                                            {
+                                                                "clue":  "2+3",
+                                                                "direction":  "across",
+                                                                "id":  "A1",
+                                                                "length":  2
+                                                            },
+                                                            {
+                                                                "clue":  "skip count by 2 from 4",
+                                                                "direction":  "down",
+                                                                "id":  "D1",
+                                                                "length":  2
+                                                            }
+                                                        ]
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Solve each arithmetic clue.",
+                                      "Fill all entries."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "answers":  {
+                                                         "D1":  "46",
+                                                         "A1":  "5"
+                                                     }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "hard",
+                        "prompt":  "Crossword hard #6",
+                        "tags":  [
+                                     "arithmetic",
+                                     "pattern"
+                                 ]
+                    },
+                    {
+                        "id":  "cross_hard_07",
+                        "type":  "crosswords",
+                        "initial_state":  {
+                                              "answers":  {
+
+                                                          },
+                                              "grid":  [
+                                                           "...",
+                                                           "...",
+                                                           "..."
+                                                       ],
+                                              "clues":  [
+                                                            {
+                                                                "clue":  "2+3",
+                                                                "direction":  "across",
+                                                                "id":  "A1",
+                                                                "length":  2
+                                                            },
+                                                            {
+                                                                "clue":  "skip count by 2 from 4",
+                                                                "direction":  "down",
+                                                                "id":  "D1",
+                                                                "length":  2
+                                                            }
+                                                        ]
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Solve each arithmetic clue.",
+                                      "Fill all entries."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "answers":  {
+                                                         "D1":  "46",
+                                                         "A1":  "5"
+                                                     }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "hard",
+                        "prompt":  "Crossword hard #7",
+                        "tags":  [
+                                     "arithmetic",
+                                     "pattern"
+                                 ]
+                    },
+                    {
+                        "id":  "cross_hard_08",
+                        "type":  "crosswords",
+                        "initial_state":  {
+                                              "answers":  {
+
+                                                          },
+                                              "grid":  [
+                                                           "...",
+                                                           "...",
+                                                           "..."
+                                                       ],
+                                              "clues":  [
+                                                            {
+                                                                "clue":  "2+3",
+                                                                "direction":  "across",
+                                                                "id":  "A1",
+                                                                "length":  2
+                                                            },
+                                                            {
+                                                                "clue":  "skip count by 2 from 4",
+                                                                "direction":  "down",
+                                                                "id":  "D1",
+                                                                "length":  2
+                                                            }
+                                                        ]
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Solve each arithmetic clue.",
+                                      "Fill all entries."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "answers":  {
+                                                         "D1":  "46",
+                                                         "A1":  "5"
+                                                     }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "hard",
+                        "prompt":  "Crossword hard #8",
+                        "tags":  [
+                                     "arithmetic",
+                                     "pattern"
+                                 ]
+                    },
+                    {
+                        "id":  "cross_hard_09",
+                        "type":  "crosswords",
+                        "initial_state":  {
+                                              "answers":  {
+
+                                                          },
+                                              "grid":  [
+                                                           "...",
+                                                           "...",
+                                                           "..."
+                                                       ],
+                                              "clues":  [
+                                                            {
+                                                                "clue":  "2+3",
+                                                                "direction":  "across",
+                                                                "id":  "A1",
+                                                                "length":  2
+                                                            },
+                                                            {
+                                                                "clue":  "skip count by 2 from 4",
+                                                                "direction":  "down",
+                                                                "id":  "D1",
+                                                                "length":  2
+                                                            }
+                                                        ]
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Solve each arithmetic clue.",
+                                      "Fill all entries."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "answers":  {
+                                                         "D1":  "46",
+                                                         "A1":  "5"
+                                                     }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "hard",
+                        "prompt":  "Crossword hard #9",
+                        "tags":  [
+                                     "arithmetic",
+                                     "pattern"
+                                 ]
+                    },
+                    {
+                        "id":  "cross_hard_10",
+                        "type":  "crosswords",
+                        "initial_state":  {
+                                              "answers":  {
+
+                                                          },
+                                              "grid":  [
+                                                           "...",
+                                                           "...",
+                                                           "..."
+                                                       ],
+                                              "clues":  [
+                                                            {
+                                                                "clue":  "2+3",
+                                                                "direction":  "across",
+                                                                "id":  "A1",
+                                                                "length":  2
+                                                            },
+                                                            {
+                                                                "clue":  "skip count by 2 from 4",
+                                                                "direction":  "down",
+                                                                "id":  "D1",
+                                                                "length":  2
+                                                            }
+                                                        ]
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Solve each arithmetic clue.",
+                                      "Fill all entries."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "answers":  {
+                                                         "D1":  "46",
+                                                         "A1":  "5"
+                                                     }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "hard",
+                        "prompt":  "Crossword hard #10",
+                        "tags":  [
+                                     "arithmetic",
+                                     "pattern"
+                                 ]
+                    }
+                ]
+}

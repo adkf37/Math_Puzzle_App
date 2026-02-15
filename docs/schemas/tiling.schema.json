@@ -1,0 +1,19 @@
+{
+  "type": "object",
+  "required": ["rows", "cols", "pieces"],
+  "properties": {
+    "rows": { "type": "integer", "minimum": 2 },
+    "cols": { "type": "integer", "minimum": 2 },
+    "pieces": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id"],
+        "properties": {
+          "id": { "type": "string" },
+          "shape": { "type": "array" }
+        }
+      }
+    }
+  }
+}

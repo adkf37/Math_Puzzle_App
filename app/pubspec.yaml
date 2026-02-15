@@ -1,0 +1,29 @@
+name: math_puzzle_app
+description: Cross-platform math puzzle app for ages 7-12.
+publish_to: "none"
+version: 0.1.0+1
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  shared_preferences: ^2.5.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/content/packs/sample_mvp/manifest.json
+    - assets/content/packs/sample_mvp/number_paths/puzzles.json
+    - assets/content/packs/sample_mvp/tiling/puzzles.json
+    - assets/content/packs/sample_mvp/sumdoku/puzzles.json
+    - assets/content/packs/sample_mvp/ineq_sudoku/puzzles.json
+    - assets/content/packs/sample_mvp/crosswords/puzzles.json
+    - assets/content/packs/sample_mvp/diff_pyramids/puzzles.json

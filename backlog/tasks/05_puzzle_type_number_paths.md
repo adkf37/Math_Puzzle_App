@@ -5,20 +5,20 @@
 - Difficulty tiers and hint ladder working
 
 ## Tasks
-- [ ] Define JSON schema for NumberPaths
-- [ ] Implement renderer:
-  - [ ] grid display
-  - [ ] tap/drag path creation
-  - [ ] highlight legal moves
-- [ ] Implement validator:
-  - [ ] adjacency rules
-  - [ ] number/order constraints
-  - [ ] win condition
-- [ ] Implement hint provider:
-  - [ ] hint1: “start here / look for forced move”
-  - [ ] hint2: “this cell must be visited”
-  - [ ] hint3: “next step suggestion”
-- [ ] Content: 30 puzzles (10 per tier)
+- [x] Define JSON schema for NumberPaths
+- [x] Implement renderer:
+  - [x] grid display
+  - [x] tap/drag path creation
+  - [x] highlight legal moves
+- [x] Implement validator:
+  - [x] adjacency rules
+  - [x] number/order constraints
+  - [x] win condition
+- [x] Implement hint provider:
+  - [x] hint1: “start here / look for forced move”
+  - [x] hint2: “this cell must be visited”
+  - [x] hint3: “next step suggestion”
+- [x] Content: 30 puzzles (10 per tier)
 
 ## Definition of Done
 - Works on web + mobile

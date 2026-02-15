@@ -1,0 +1,50 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "PuzzleDefinition",
+  "type": "object",
+  "required": [
+    "id",
+    "type",
+    "difficulty",
+    "recommended_age_band",
+    "prompt",
+    "rules",
+    "initial_state",
+    "solution",
+    "hints",
+    "explanation",
+    "tags"
+  ],
+  "properties": {
+    "id": { "type": "string", "minLength": 1 },
+    "type": { "type": "string" },
+    "difficulty": { "enum": ["easy", "medium", "hard"] },
+    "recommended_age_band": { "type": "string" },
+    "prompt": { "type": "string" },
+    "rules": { "type": "array", "items": { "type": "string" }, "minItems": 1 },
+    "initial_state": { "type": "object" },
+    "solution": { "type": "object" },
+    "hints": {
+      "type": "array",
+      "minItems": 3,
+      "items": {
+        "type": "object",
+        "required": ["level", "message"],
+        "properties": {
+          "level": { "type": "integer", "minimum": 1, "maximum": 3 },
+          "message": { "type": "string" }
+        }
+      }
+    },
+    "explanation": {
+      "type": "object",
+      "required": ["summary", "steps", "strategy_tip"],
+      "properties": {
+        "summary": { "type": "string" },
+        "steps": { "type": "array", "minItems": 3, "maxItems": 6, "items": { "type": "string" } },
+        "strategy_tip": { "type": "string" }
+      }
+    },
+    "tags": { "type": "array", "items": { "type": "string" } }
+  }
+}

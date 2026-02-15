@@ -1,0 +1,1924 @@
+{
+    "puzzles":  [
+                    {
+                        "id":  "pyr_easy_01",
+                        "type":  "diff_pyramids",
+                        "initial_state":  {
+                                              "rule":  "diff",
+                                              "givens":  {
+                                                             "0:2":  3,
+                                                             "0:1":  5,
+                                                             "0:3":  2,
+                                                             "0:0":  9
+                                                         },
+                                              "size":  4,
+                                              "cells":  {
+
+                                                        }
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Each upper cell is abs difference of two cells below."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "cells":  {
+                                                       "3:0":  1,
+                                                       "1:1":  2,
+                                                       "2:1":  1,
+                                                       "0:0":  9,
+                                                       "0:2":  3,
+                                                       "1:0":  4,
+                                                       "0:3":  2,
+                                                       "2:0":  2,
+                                                       "0:1":  5,
+                                                       "1:2":  1
+                                                   }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "easy",
+                        "prompt":  "Difference Pyramid easy #1",
+                        "tags":  [
+                                     "arithmetic",
+                                     "logic"
+                                 ]
+                    },
+                    {
+                        "id":  "pyr_easy_02",
+                        "type":  "diff_pyramids",
+                        "initial_state":  {
+                                              "rule":  "diff",
+                                              "givens":  {
+                                                             "0:2":  3,
+                                                             "0:1":  5,
+                                                             "0:3":  2,
+                                                             "0:0":  9
+                                                         },
+                                              "size":  4,
+                                              "cells":  {
+
+                                                        }
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Each upper cell is abs difference of two cells below."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "cells":  {
+                                                       "3:0":  1,
+                                                       "1:1":  2,
+                                                       "2:1":  1,
+                                                       "0:0":  9,
+                                                       "0:2":  3,
+                                                       "1:0":  4,
+                                                       "0:3":  2,
+                                                       "2:0":  2,
+                                                       "0:1":  5,
+                                                       "1:2":  1
+                                                   }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "easy",
+                        "prompt":  "Difference Pyramid easy #2",
+                        "tags":  [
+                                     "arithmetic",
+                                     "logic"
+                                 ]
+                    },
+                    {
+                        "id":  "pyr_easy_03",
+                        "type":  "diff_pyramids",
+                        "initial_state":  {
+                                              "rule":  "diff",
+                                              "givens":  {
+                                                             "0:2":  3,
+                                                             "0:1":  5,
+                                                             "0:3":  2,
+                                                             "0:0":  9
+                                                         },
+                                              "size":  4,
+                                              "cells":  {
+
+                                                        }
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Each upper cell is abs difference of two cells below."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "cells":  {
+                                                       "3:0":  1,
+                                                       "1:1":  2,
+                                                       "2:1":  1,
+                                                       "0:0":  9,
+                                                       "0:2":  3,
+                                                       "1:0":  4,
+                                                       "0:3":  2,
+                                                       "2:0":  2,
+                                                       "0:1":  5,
+                                                       "1:2":  1
+                                                   }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "easy",
+                        "prompt":  "Difference Pyramid easy #3",
+                        "tags":  [
+                                     "arithmetic",
+                                     "logic"
+                                 ]
+                    },
+                    {
+                        "id":  "pyr_easy_04",
+                        "type":  "diff_pyramids",
+                        "initial_state":  {
+                                              "rule":  "diff",
+                                              "givens":  {
+                                                             "0:2":  3,
+                                                             "0:1":  5,
+                                                             "0:3":  2,
+                                                             "0:0":  9
+                                                         },
+                                              "size":  4,
+                                              "cells":  {
+
+                                                        }
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Each upper cell is abs difference of two cells below."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "cells":  {
+                                                       "3:0":  1,
+                                                       "1:1":  2,
+                                                       "2:1":  1,
+                                                       "0:0":  9,
+                                                       "0:2":  3,
+                                                       "1:0":  4,
+                                                       "0:3":  2,
+                                                       "2:0":  2,
+                                                       "0:1":  5,
+                                                       "1:2":  1
+                                                   }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "easy",
+                        "prompt":  "Difference Pyramid easy #4",
+                        "tags":  [
+                                     "arithmetic",
+                                     "logic"
+                                 ]
+                    },
+                    {
+                        "id":  "pyr_easy_05",
+                        "type":  "diff_pyramids",
+                        "initial_state":  {
+                                              "rule":  "diff",
+                                              "givens":  {
+                                                             "0:2":  3,
+                                                             "0:1":  5,
+                                                             "0:3":  2,
+                                                             "0:0":  9
+                                                         },
+                                              "size":  4,
+                                              "cells":  {
+
+                                                        }
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Each upper cell is abs difference of two cells below."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "cells":  {
+                                                       "3:0":  1,
+                                                       "1:1":  2,
+                                                       "2:1":  1,
+                                                       "0:0":  9,
+                                                       "0:2":  3,
+                                                       "1:0":  4,
+                                                       "0:3":  2,
+                                                       "2:0":  2,
+                                                       "0:1":  5,
+                                                       "1:2":  1
+                                                   }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "easy",
+                        "prompt":  "Difference Pyramid easy #5",
+                        "tags":  [
+                                     "arithmetic",
+                                     "logic"
+                                 ]
+                    },
+                    {
+                        "id":  "pyr_easy_06",
+                        "type":  "diff_pyramids",
+                        "initial_state":  {
+                                              "rule":  "diff",
+                                              "givens":  {
+                                                             "0:2":  3,
+                                                             "0:1":  5,
+                                                             "0:3":  2,
+                                                             "0:0":  9
+                                                         },
+                                              "size":  4,
+                                              "cells":  {
+
+                                                        }
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Each upper cell is abs difference of two cells below."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "cells":  {
+                                                       "3:0":  1,
+                                                       "1:1":  2,
+                                                       "2:1":  1,
+                                                       "0:0":  9,
+                                                       "0:2":  3,
+                                                       "1:0":  4,
+                                                       "0:3":  2,
+                                                       "2:0":  2,
+                                                       "0:1":  5,
+                                                       "1:2":  1
+                                                   }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "easy",
+                        "prompt":  "Difference Pyramid easy #6",
+                        "tags":  [
+                                     "arithmetic",
+                                     "logic"
+                                 ]
+                    },
+                    {
+                        "id":  "pyr_easy_07",
+                        "type":  "diff_pyramids",
+                        "initial_state":  {
+                                              "rule":  "diff",
+                                              "givens":  {
+                                                             "0:2":  3,
+                                                             "0:1":  5,
+                                                             "0:3":  2,
+                                                             "0:0":  9
+                                                         },
+                                              "size":  4,
+                                              "cells":  {
+
+                                                        }
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Each upper cell is abs difference of two cells below."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "cells":  {
+                                                       "3:0":  1,
+                                                       "1:1":  2,
+                                                       "2:1":  1,
+                                                       "0:0":  9,
+                                                       "0:2":  3,
+                                                       "1:0":  4,
+                                                       "0:3":  2,
+                                                       "2:0":  2,
+                                                       "0:1":  5,
+                                                       "1:2":  1
+                                                   }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "easy",
+                        "prompt":  "Difference Pyramid easy #7",
+                        "tags":  [
+                                     "arithmetic",
+                                     "logic"
+                                 ]
+                    },
+                    {
+                        "id":  "pyr_easy_08",
+                        "type":  "diff_pyramids",
+                        "initial_state":  {
+                                              "rule":  "diff",
+                                              "givens":  {
+                                                             "0:2":  3,
+                                                             "0:1":  5,
+                                                             "0:3":  2,
+                                                             "0:0":  9
+                                                         },
+                                              "size":  4,
+                                              "cells":  {
+
+                                                        }
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Each upper cell is abs difference of two cells below."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "cells":  {
+                                                       "3:0":  1,
+                                                       "1:1":  2,
+                                                       "2:1":  1,
+                                                       "0:0":  9,
+                                                       "0:2":  3,
+                                                       "1:0":  4,
+                                                       "0:3":  2,
+                                                       "2:0":  2,
+                                                       "0:1":  5,
+                                                       "1:2":  1
+                                                   }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "easy",
+                        "prompt":  "Difference Pyramid easy #8",
+                        "tags":  [
+                                     "arithmetic",
+                                     "logic"
+                                 ]
+                    },
+                    {
+                        "id":  "pyr_easy_09",
+                        "type":  "diff_pyramids",
+                        "initial_state":  {
+                                              "rule":  "diff",
+                                              "givens":  {
+                                                             "0:2":  3,
+                                                             "0:1":  5,
+                                                             "0:3":  2,
+                                                             "0:0":  9
+                                                         },
+                                              "size":  4,
+                                              "cells":  {
+
+                                                        }
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Each upper cell is abs difference of two cells below."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "cells":  {
+                                                       "3:0":  1,
+                                                       "1:1":  2,
+                                                       "2:1":  1,
+                                                       "0:0":  9,
+                                                       "0:2":  3,
+                                                       "1:0":  4,
+                                                       "0:3":  2,
+                                                       "2:0":  2,
+                                                       "0:1":  5,
+                                                       "1:2":  1
+                                                   }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "easy",
+                        "prompt":  "Difference Pyramid easy #9",
+                        "tags":  [
+                                     "arithmetic",
+                                     "logic"
+                                 ]
+                    },
+                    {
+                        "id":  "pyr_easy_10",
+                        "type":  "diff_pyramids",
+                        "initial_state":  {
+                                              "rule":  "diff",
+                                              "givens":  {
+                                                             "0:2":  3,
+                                                             "0:1":  5,
+                                                             "0:3":  2,
+                                                             "0:0":  9
+                                                         },
+                                              "size":  4,
+                                              "cells":  {
+
+                                                        }
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Each upper cell is abs difference of two cells below."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "cells":  {
+                                                       "3:0":  1,
+                                                       "1:1":  2,
+                                                       "2:1":  1,
+                                                       "0:0":  9,
+                                                       "0:2":  3,
+                                                       "1:0":  4,
+                                                       "0:3":  2,
+                                                       "2:0":  2,
+                                                       "0:1":  5,
+                                                       "1:2":  1
+                                                   }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "easy",
+                        "prompt":  "Difference Pyramid easy #10",
+                        "tags":  [
+                                     "arithmetic",
+                                     "logic"
+                                 ]
+                    },
+                    {
+                        "id":  "pyr_medium_01",
+                        "type":  "diff_pyramids",
+                        "initial_state":  {
+                                              "rule":  "diff",
+                                              "givens":  {
+                                                             "0:2":  3,
+                                                             "0:1":  5,
+                                                             "0:3":  2,
+                                                             "0:0":  9
+                                                         },
+                                              "size":  4,
+                                              "cells":  {
+
+                                                        }
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Each upper cell is abs difference of two cells below."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "cells":  {
+                                                       "3:0":  1,
+                                                       "1:1":  2,
+                                                       "2:1":  1,
+                                                       "0:0":  9,
+                                                       "0:2":  3,
+                                                       "1:0":  4,
+                                                       "0:3":  2,
+                                                       "2:0":  2,
+                                                       "0:1":  5,
+                                                       "1:2":  1
+                                                   }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "medium",
+                        "prompt":  "Difference Pyramid medium #1",
+                        "tags":  [
+                                     "arithmetic",
+                                     "logic"
+                                 ]
+                    },
+                    {
+                        "id":  "pyr_medium_02",
+                        "type":  "diff_pyramids",
+                        "initial_state":  {
+                                              "rule":  "diff",
+                                              "givens":  {
+                                                             "0:2":  3,
+                                                             "0:1":  5,
+                                                             "0:3":  2,
+                                                             "0:0":  9
+                                                         },
+                                              "size":  4,
+                                              "cells":  {
+
+                                                        }
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Each upper cell is abs difference of two cells below."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "cells":  {
+                                                       "3:0":  1,
+                                                       "1:1":  2,
+                                                       "2:1":  1,
+                                                       "0:0":  9,
+                                                       "0:2":  3,
+                                                       "1:0":  4,
+                                                       "0:3":  2,
+                                                       "2:0":  2,
+                                                       "0:1":  5,
+                                                       "1:2":  1
+                                                   }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "medium",
+                        "prompt":  "Difference Pyramid medium #2",
+                        "tags":  [
+                                     "arithmetic",
+                                     "logic"
+                                 ]
+                    },
+                    {
+                        "id":  "pyr_medium_03",
+                        "type":  "diff_pyramids",
+                        "initial_state":  {
+                                              "rule":  "diff",
+                                              "givens":  {
+                                                             "0:2":  3,
+                                                             "0:1":  5,
+                                                             "0:3":  2,
+                                                             "0:0":  9
+                                                         },
+                                              "size":  4,
+                                              "cells":  {
+
+                                                        }
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Each upper cell is abs difference of two cells below."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "cells":  {
+                                                       "3:0":  1,
+                                                       "1:1":  2,
+                                                       "2:1":  1,
+                                                       "0:0":  9,
+                                                       "0:2":  3,
+                                                       "1:0":  4,
+                                                       "0:3":  2,
+                                                       "2:0":  2,
+                                                       "0:1":  5,
+                                                       "1:2":  1
+                                                   }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "medium",
+                        "prompt":  "Difference Pyramid medium #3",
+                        "tags":  [
+                                     "arithmetic",
+                                     "logic"
+                                 ]
+                    },
+                    {
+                        "id":  "pyr_medium_04",
+                        "type":  "diff_pyramids",
+                        "initial_state":  {
+                                              "rule":  "diff",
+                                              "givens":  {
+                                                             "0:2":  3,
+                                                             "0:1":  5,
+                                                             "0:3":  2,
+                                                             "0:0":  9
+                                                         },
+                                              "size":  4,
+                                              "cells":  {
+
+                                                        }
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Each upper cell is abs difference of two cells below."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "cells":  {
+                                                       "3:0":  1,
+                                                       "1:1":  2,
+                                                       "2:1":  1,
+                                                       "0:0":  9,
+                                                       "0:2":  3,
+                                                       "1:0":  4,
+                                                       "0:3":  2,
+                                                       "2:0":  2,
+                                                       "0:1":  5,
+                                                       "1:2":  1
+                                                   }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "medium",
+                        "prompt":  "Difference Pyramid medium #4",
+                        "tags":  [
+                                     "arithmetic",
+                                     "logic"
+                                 ]
+                    },
+                    {
+                        "id":  "pyr_medium_05",
+                        "type":  "diff_pyramids",
+                        "initial_state":  {
+                                              "rule":  "diff",
+                                              "givens":  {
+                                                             "0:2":  3,
+                                                             "0:1":  5,
+                                                             "0:3":  2,
+                                                             "0:0":  9
+                                                         },
+                                              "size":  4,
+                                              "cells":  {
+
+                                                        }
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Each upper cell is abs difference of two cells below."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "cells":  {
+                                                       "3:0":  1,
+                                                       "1:1":  2,
+                                                       "2:1":  1,
+                                                       "0:0":  9,
+                                                       "0:2":  3,
+                                                       "1:0":  4,
+                                                       "0:3":  2,
+                                                       "2:0":  2,
+                                                       "0:1":  5,
+                                                       "1:2":  1
+                                                   }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "medium",
+                        "prompt":  "Difference Pyramid medium #5",
+                        "tags":  [
+                                     "arithmetic",
+                                     "logic"
+                                 ]
+                    },
+                    {
+                        "id":  "pyr_medium_06",
+                        "type":  "diff_pyramids",
+                        "initial_state":  {
+                                              "rule":  "diff",
+                                              "givens":  {
+                                                             "0:2":  3,
+                                                             "0:1":  5,
+                                                             "0:3":  2,
+                                                             "0:0":  9
+                                                         },
+                                              "size":  4,
+                                              "cells":  {
+
+                                                        }
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Each upper cell is abs difference of two cells below."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "cells":  {
+                                                       "3:0":  1,
+                                                       "1:1":  2,
+                                                       "2:1":  1,
+                                                       "0:0":  9,
+                                                       "0:2":  3,
+                                                       "1:0":  4,
+                                                       "0:3":  2,
+                                                       "2:0":  2,
+                                                       "0:1":  5,
+                                                       "1:2":  1
+                                                   }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "medium",
+                        "prompt":  "Difference Pyramid medium #6",
+                        "tags":  [
+                                     "arithmetic",
+                                     "logic"
+                                 ]
+                    },
+                    {
+                        "id":  "pyr_medium_07",
+                        "type":  "diff_pyramids",
+                        "initial_state":  {
+                                              "rule":  "diff",
+                                              "givens":  {
+                                                             "0:2":  3,
+                                                             "0:1":  5,
+                                                             "0:3":  2,
+                                                             "0:0":  9
+                                                         },
+                                              "size":  4,
+                                              "cells":  {
+
+                                                        }
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Each upper cell is abs difference of two cells below."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "cells":  {
+                                                       "3:0":  1,
+                                                       "1:1":  2,
+                                                       "2:1":  1,
+                                                       "0:0":  9,
+                                                       "0:2":  3,
+                                                       "1:0":  4,
+                                                       "0:3":  2,
+                                                       "2:0":  2,
+                                                       "0:1":  5,
+                                                       "1:2":  1
+                                                   }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "medium",
+                        "prompt":  "Difference Pyramid medium #7",
+                        "tags":  [
+                                     "arithmetic",
+                                     "logic"
+                                 ]
+                    },
+                    {
+                        "id":  "pyr_medium_08",
+                        "type":  "diff_pyramids",
+                        "initial_state":  {
+                                              "rule":  "diff",
+                                              "givens":  {
+                                                             "0:2":  3,
+                                                             "0:1":  5,
+                                                             "0:3":  2,
+                                                             "0:0":  9
+                                                         },
+                                              "size":  4,
+                                              "cells":  {
+
+                                                        }
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Each upper cell is abs difference of two cells below."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "cells":  {
+                                                       "3:0":  1,
+                                                       "1:1":  2,
+                                                       "2:1":  1,
+                                                       "0:0":  9,
+                                                       "0:2":  3,
+                                                       "1:0":  4,
+                                                       "0:3":  2,
+                                                       "2:0":  2,
+                                                       "0:1":  5,
+                                                       "1:2":  1
+                                                   }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "medium",
+                        "prompt":  "Difference Pyramid medium #8",
+                        "tags":  [
+                                     "arithmetic",
+                                     "logic"
+                                 ]
+                    },
+                    {
+                        "id":  "pyr_medium_09",
+                        "type":  "diff_pyramids",
+                        "initial_state":  {
+                                              "rule":  "diff",
+                                              "givens":  {
+                                                             "0:2":  3,
+                                                             "0:1":  5,
+                                                             "0:3":  2,
+                                                             "0:0":  9
+                                                         },
+                                              "size":  4,
+                                              "cells":  {
+
+                                                        }
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Each upper cell is abs difference of two cells below."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "cells":  {
+                                                       "3:0":  1,
+                                                       "1:1":  2,
+                                                       "2:1":  1,
+                                                       "0:0":  9,
+                                                       "0:2":  3,
+                                                       "1:0":  4,
+                                                       "0:3":  2,
+                                                       "2:0":  2,
+                                                       "0:1":  5,
+                                                       "1:2":  1
+                                                   }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "medium",
+                        "prompt":  "Difference Pyramid medium #9",
+                        "tags":  [
+                                     "arithmetic",
+                                     "logic"
+                                 ]
+                    },
+                    {
+                        "id":  "pyr_medium_10",
+                        "type":  "diff_pyramids",
+                        "initial_state":  {
+                                              "rule":  "diff",
+                                              "givens":  {
+                                                             "0:2":  3,
+                                                             "0:1":  5,
+                                                             "0:3":  2,
+                                                             "0:0":  9
+                                                         },
+                                              "size":  4,
+                                              "cells":  {
+
+                                                        }
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Each upper cell is abs difference of two cells below."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "cells":  {
+                                                       "3:0":  1,
+                                                       "1:1":  2,
+                                                       "2:1":  1,
+                                                       "0:0":  9,
+                                                       "0:2":  3,
+                                                       "1:0":  4,
+                                                       "0:3":  2,
+                                                       "2:0":  2,
+                                                       "0:1":  5,
+                                                       "1:2":  1
+                                                   }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "medium",
+                        "prompt":  "Difference Pyramid medium #10",
+                        "tags":  [
+                                     "arithmetic",
+                                     "logic"
+                                 ]
+                    },
+                    {
+                        "id":  "pyr_hard_01",
+                        "type":  "diff_pyramids",
+                        "initial_state":  {
+                                              "rule":  "diff",
+                                              "givens":  {
+                                                             "0:2":  3,
+                                                             "0:1":  5,
+                                                             "0:3":  2,
+                                                             "0:0":  9
+                                                         },
+                                              "size":  4,
+                                              "cells":  {
+
+                                                        }
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Each upper cell is abs difference of two cells below."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "cells":  {
+                                                       "3:0":  1,
+                                                       "1:1":  2,
+                                                       "2:1":  1,
+                                                       "0:0":  9,
+                                                       "0:2":  3,
+                                                       "1:0":  4,
+                                                       "0:3":  2,
+                                                       "2:0":  2,
+                                                       "0:1":  5,
+                                                       "1:2":  1
+                                                   }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "hard",
+                        "prompt":  "Difference Pyramid hard #1",
+                        "tags":  [
+                                     "arithmetic",
+                                     "logic"
+                                 ]
+                    },
+                    {
+                        "id":  "pyr_hard_02",
+                        "type":  "diff_pyramids",
+                        "initial_state":  {
+                                              "rule":  "diff",
+                                              "givens":  {
+                                                             "0:2":  3,
+                                                             "0:1":  5,
+                                                             "0:3":  2,
+                                                             "0:0":  9
+                                                         },
+                                              "size":  4,
+                                              "cells":  {
+
+                                                        }
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Each upper cell is abs difference of two cells below."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "cells":  {
+                                                       "3:0":  1,
+                                                       "1:1":  2,
+                                                       "2:1":  1,
+                                                       "0:0":  9,
+                                                       "0:2":  3,
+                                                       "1:0":  4,
+                                                       "0:3":  2,
+                                                       "2:0":  2,
+                                                       "0:1":  5,
+                                                       "1:2":  1
+                                                   }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "hard",
+                        "prompt":  "Difference Pyramid hard #2",
+                        "tags":  [
+                                     "arithmetic",
+                                     "logic"
+                                 ]
+                    },
+                    {
+                        "id":  "pyr_hard_03",
+                        "type":  "diff_pyramids",
+                        "initial_state":  {
+                                              "rule":  "diff",
+                                              "givens":  {
+                                                             "0:2":  3,
+                                                             "0:1":  5,
+                                                             "0:3":  2,
+                                                             "0:0":  9
+                                                         },
+                                              "size":  4,
+                                              "cells":  {
+
+                                                        }
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Each upper cell is abs difference of two cells below."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "cells":  {
+                                                       "3:0":  1,
+                                                       "1:1":  2,
+                                                       "2:1":  1,
+                                                       "0:0":  9,
+                                                       "0:2":  3,
+                                                       "1:0":  4,
+                                                       "0:3":  2,
+                                                       "2:0":  2,
+                                                       "0:1":  5,
+                                                       "1:2":  1
+                                                   }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "hard",
+                        "prompt":  "Difference Pyramid hard #3",
+                        "tags":  [
+                                     "arithmetic",
+                                     "logic"
+                                 ]
+                    },
+                    {
+                        "id":  "pyr_hard_04",
+                        "type":  "diff_pyramids",
+                        "initial_state":  {
+                                              "rule":  "diff",
+                                              "givens":  {
+                                                             "0:2":  3,
+                                                             "0:1":  5,
+                                                             "0:3":  2,
+                                                             "0:0":  9
+                                                         },
+                                              "size":  4,
+                                              "cells":  {
+
+                                                        }
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Each upper cell is abs difference of two cells below."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "cells":  {
+                                                       "3:0":  1,
+                                                       "1:1":  2,
+                                                       "2:1":  1,
+                                                       "0:0":  9,
+                                                       "0:2":  3,
+                                                       "1:0":  4,
+                                                       "0:3":  2,
+                                                       "2:0":  2,
+                                                       "0:1":  5,
+                                                       "1:2":  1
+                                                   }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "hard",
+                        "prompt":  "Difference Pyramid hard #4",
+                        "tags":  [
+                                     "arithmetic",
+                                     "logic"
+                                 ]
+                    },
+                    {
+                        "id":  "pyr_hard_05",
+                        "type":  "diff_pyramids",
+                        "initial_state":  {
+                                              "rule":  "diff",
+                                              "givens":  {
+                                                             "0:2":  3,
+                                                             "0:1":  5,
+                                                             "0:3":  2,
+                                                             "0:0":  9
+                                                         },
+                                              "size":  4,
+                                              "cells":  {
+
+                                                        }
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Each upper cell is abs difference of two cells below."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "cells":  {
+                                                       "3:0":  1,
+                                                       "1:1":  2,
+                                                       "2:1":  1,
+                                                       "0:0":  9,
+                                                       "0:2":  3,
+                                                       "1:0":  4,
+                                                       "0:3":  2,
+                                                       "2:0":  2,
+                                                       "0:1":  5,
+                                                       "1:2":  1
+                                                   }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "hard",
+                        "prompt":  "Difference Pyramid hard #5",
+                        "tags":  [
+                                     "arithmetic",
+                                     "logic"
+                                 ]
+                    },
+                    {
+                        "id":  "pyr_hard_06",
+                        "type":  "diff_pyramids",
+                        "initial_state":  {
+                                              "rule":  "diff",
+                                              "givens":  {
+                                                             "0:2":  3,
+                                                             "0:1":  5,
+                                                             "0:3":  2,
+                                                             "0:0":  9
+                                                         },
+                                              "size":  4,
+                                              "cells":  {
+
+                                                        }
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Each upper cell is abs difference of two cells below."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "cells":  {
+                                                       "3:0":  1,
+                                                       "1:1":  2,
+                                                       "2:1":  1,
+                                                       "0:0":  9,
+                                                       "0:2":  3,
+                                                       "1:0":  4,
+                                                       "0:3":  2,
+                                                       "2:0":  2,
+                                                       "0:1":  5,
+                                                       "1:2":  1
+                                                   }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "hard",
+                        "prompt":  "Difference Pyramid hard #6",
+                        "tags":  [
+                                     "arithmetic",
+                                     "logic"
+                                 ]
+                    },
+                    {
+                        "id":  "pyr_hard_07",
+                        "type":  "diff_pyramids",
+                        "initial_state":  {
+                                              "rule":  "diff",
+                                              "givens":  {
+                                                             "0:2":  3,
+                                                             "0:1":  5,
+                                                             "0:3":  2,
+                                                             "0:0":  9
+                                                         },
+                                              "size":  4,
+                                              "cells":  {
+
+                                                        }
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Each upper cell is abs difference of two cells below."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "cells":  {
+                                                       "3:0":  1,
+                                                       "1:1":  2,
+                                                       "2:1":  1,
+                                                       "0:0":  9,
+                                                       "0:2":  3,
+                                                       "1:0":  4,
+                                                       "0:3":  2,
+                                                       "2:0":  2,
+                                                       "0:1":  5,
+                                                       "1:2":  1
+                                                   }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "hard",
+                        "prompt":  "Difference Pyramid hard #7",
+                        "tags":  [
+                                     "arithmetic",
+                                     "logic"
+                                 ]
+                    },
+                    {
+                        "id":  "pyr_hard_08",
+                        "type":  "diff_pyramids",
+                        "initial_state":  {
+                                              "rule":  "diff",
+                                              "givens":  {
+                                                             "0:2":  3,
+                                                             "0:1":  5,
+                                                             "0:3":  2,
+                                                             "0:0":  9
+                                                         },
+                                              "size":  4,
+                                              "cells":  {
+
+                                                        }
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Each upper cell is abs difference of two cells below."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "cells":  {
+                                                       "3:0":  1,
+                                                       "1:1":  2,
+                                                       "2:1":  1,
+                                                       "0:0":  9,
+                                                       "0:2":  3,
+                                                       "1:0":  4,
+                                                       "0:3":  2,
+                                                       "2:0":  2,
+                                                       "0:1":  5,
+                                                       "1:2":  1
+                                                   }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "hard",
+                        "prompt":  "Difference Pyramid hard #8",
+                        "tags":  [
+                                     "arithmetic",
+                                     "logic"
+                                 ]
+                    },
+                    {
+                        "id":  "pyr_hard_09",
+                        "type":  "diff_pyramids",
+                        "initial_state":  {
+                                              "rule":  "diff",
+                                              "givens":  {
+                                                             "0:2":  3,
+                                                             "0:1":  5,
+                                                             "0:3":  2,
+                                                             "0:0":  9
+                                                         },
+                                              "size":  4,
+                                              "cells":  {
+
+                                                        }
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Each upper cell is abs difference of two cells below."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "cells":  {
+                                                       "3:0":  1,
+                                                       "1:1":  2,
+                                                       "2:1":  1,
+                                                       "0:0":  9,
+                                                       "0:2":  3,
+                                                       "1:0":  4,
+                                                       "0:3":  2,
+                                                       "2:0":  2,
+                                                       "0:1":  5,
+                                                       "1:2":  1
+                                                   }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "hard",
+                        "prompt":  "Difference Pyramid hard #9",
+                        "tags":  [
+                                     "arithmetic",
+                                     "logic"
+                                 ]
+                    },
+                    {
+                        "id":  "pyr_hard_10",
+                        "type":  "diff_pyramids",
+                        "initial_state":  {
+                                              "rule":  "diff",
+                                              "givens":  {
+                                                             "0:2":  3,
+                                                             "0:1":  5,
+                                                             "0:3":  2,
+                                                             "0:0":  9
+                                                         },
+                                              "size":  4,
+                                              "cells":  {
+
+                                                        }
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Each upper cell is abs difference of two cells below."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "cells":  {
+                                                       "3:0":  1,
+                                                       "1:1":  2,
+                                                       "2:1":  1,
+                                                       "0:0":  9,
+                                                       "0:2":  3,
+                                                       "1:0":  4,
+                                                       "0:3":  2,
+                                                       "2:0":  2,
+                                                       "0:1":  5,
+                                                       "1:2":  1
+                                                   }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "hard",
+                        "prompt":  "Difference Pyramid hard #10",
+                        "tags":  [
+                                     "arithmetic",
+                                     "logic"
+                                 ]
+                    }
+                ]
+}

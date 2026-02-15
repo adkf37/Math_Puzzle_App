@@ -1,0 +1,9 @@
+{
+  "type": "object",
+  "required": ["size", "rule"],
+  "properties": {
+    "size": { "type": "integer", "minimum": 2 },
+    "rule": { "enum": ["sum", "diff"] },
+    "givens": { "type": "object" }
+  }
+}

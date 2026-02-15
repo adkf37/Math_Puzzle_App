@@ -1,0 +1,13 @@
+{
+    "files":  {
+                  "ineq_sudoku":  "assets/content/packs/sample_mvp/ineq_sudoku/puzzles.json",
+                  "sumdoku":  "assets/content/packs/sample_mvp/sumdoku/puzzles.json",
+                  "tiling":  "assets/content/packs/sample_mvp/tiling/puzzles.json",
+                  "diff_pyramids":  "assets/content/packs/sample_mvp/diff_pyramids/puzzles.json",
+                  "crosswords":  "assets/content/packs/sample_mvp/crosswords/puzzles.json",
+                  "number_paths":  "assets/content/packs/sample_mvp/number_paths/puzzles.json"
+              },
+    "display_name":  "Sample MVP Pack",
+    "id":  "sample_mvp",
+    "version":  "1.0.0"
+}

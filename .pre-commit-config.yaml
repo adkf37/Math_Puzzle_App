@@ -1,0 +1,18 @@
+repos:
+  - repo: https://github.com/dart-lang/dart_style
+    rev: 2.3.6
+    hooks:
+      - id: dart-format
+        args: ["--set-exit-if-changed"]
+  - repo: local
+    hooks:
+      - id: flutter-analyze
+        name: flutter analyze
+        entry: flutter analyze
+        language: system
+        pass_filenames: false
+      - id: flutter-test
+        name: flutter test
+        entry: flutter test
+        language: system
+        pass_filenames: false

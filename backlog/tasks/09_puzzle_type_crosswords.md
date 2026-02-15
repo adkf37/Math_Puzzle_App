@@ -4,18 +4,18 @@
 - Fill-in crossword with number sequences or arithmetic results
 
 ## Tasks
-- [ ] JSON schema: grid, clues, expected answers
-- [ ] Renderer:
-  - [ ] clue list
+- [x] JSON schema: grid, clues, expected answers
+- [x] Renderer:
+  - [x] clue list
   - [ ] focus cell navigation
-  - [ ] input mode
-- [ ] Validator:
-  - [ ] per-entry correctness
-  - [ ] full puzzle solved
-- [ ] Hint provider:
-  - [ ] reveal one cell
-  - [ ] explain skip-count rule
-- [ ] Content: 30 puzzles
+  - [x] input mode
+- [x] Validator:
+  - [x] per-entry correctness
+  - [x] full puzzle solved
+- [x] Hint provider:
+  - [x] reveal one cell
+  - [x] explain skip-count rule
+- [x] Content: 30 puzzles
 
 ## Definition of Done
 - Works well on small screens

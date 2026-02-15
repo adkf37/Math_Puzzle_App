@@ -1,0 +1,2524 @@
+{
+    "puzzles":  [
+                    {
+                        "id":  "ineq_easy_01",
+                        "type":  "ineq_sudoku",
+                        "initial_state":  {
+                                              "entries":  {
+
+                                                          },
+                                              "inequalities":  [
+                                                                   {
+                                                                       "op":  "\u003c",
+                                                                       "b":  1,
+                                                                       "a":  0
+                                                                   },
+                                                                   {
+                                                                       "op":  "\u003e",
+                                                                       "b":  6,
+                                                                       "a":  5
+                                                                   },
+                                                                   {
+                                                                       "op":  "\u003e",
+                                                                       "b":  11,
+                                                                       "a":  10
+                                                                   }
+                                                               ],
+                                              "givens":  {
+                                                             "0":  1
+                                                         },
+                                              "size":  4
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Each row and column has unique digits.",
+                                      "Respect \u003e and \u003c signs."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "entries":  {
+                                                         "5":  4,
+                                                         "11":  3,
+                                                         "10":  4,
+                                                         "1":  2,
+                                                         "15":  1,
+                                                         "7":  2,
+                                                         "2":  3,
+                                                         "14":  2,
+                                                         "9":  1,
+                                                         "13":  3,
+                                                         "12":  4,
+                                                         "8":  2,
+                                                         "4":  3,
+                                                         "3":  4,
+                                                         "0":  1,
+                                                         "6":  1
+                                                     }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "easy",
+                        "prompt":  "Inequality Sudoku easy #1",
+                        "tags":  [
+                                     "logic",
+                                     "arithmetic"
+                                 ]
+                    },
+                    {
+                        "id":  "ineq_easy_02",
+                        "type":  "ineq_sudoku",
+                        "initial_state":  {
+                                              "entries":  {
+
+                                                          },
+                                              "inequalities":  [
+                                                                   {
+                                                                       "op":  "\u003c",
+                                                                       "b":  1,
+                                                                       "a":  0
+                                                                   },
+                                                                   {
+                                                                       "op":  "\u003e",
+                                                                       "b":  6,
+                                                                       "a":  5
+                                                                   },
+                                                                   {
+                                                                       "op":  "\u003e",
+                                                                       "b":  11,
+                                                                       "a":  10
+                                                                   }
+                                                               ],
+                                              "givens":  {
+                                                             "0":  1
+                                                         },
+                                              "size":  4
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Each row and column has unique digits.",
+                                      "Respect \u003e and \u003c signs."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "entries":  {
+                                                         "5":  4,
+                                                         "11":  3,
+                                                         "10":  4,
+                                                         "1":  2,
+                                                         "15":  1,
+                                                         "7":  2,
+                                                         "2":  3,
+                                                         "14":  2,
+                                                         "9":  1,
+                                                         "13":  3,
+                                                         "12":  4,
+                                                         "8":  2,
+                                                         "4":  3,
+                                                         "3":  4,
+                                                         "0":  1,
+                                                         "6":  1
+                                                     }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "easy",
+                        "prompt":  "Inequality Sudoku easy #2",
+                        "tags":  [
+                                     "logic",
+                                     "arithmetic"
+                                 ]
+                    },
+                    {
+                        "id":  "ineq_easy_03",
+                        "type":  "ineq_sudoku",
+                        "initial_state":  {
+                                              "entries":  {
+
+                                                          },
+                                              "inequalities":  [
+                                                                   {
+                                                                       "op":  "\u003c",
+                                                                       "b":  1,
+                                                                       "a":  0
+                                                                   },
+                                                                   {
+                                                                       "op":  "\u003e",
+                                                                       "b":  6,
+                                                                       "a":  5
+                                                                   },
+                                                                   {
+                                                                       "op":  "\u003e",
+                                                                       "b":  11,
+                                                                       "a":  10
+                                                                   }
+                                                               ],
+                                              "givens":  {
+                                                             "0":  1
+                                                         },
+                                              "size":  4
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Each row and column has unique digits.",
+                                      "Respect \u003e and \u003c signs."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "entries":  {
+                                                         "5":  4,
+                                                         "11":  3,
+                                                         "10":  4,
+                                                         "1":  2,
+                                                         "15":  1,
+                                                         "7":  2,
+                                                         "2":  3,
+                                                         "14":  2,
+                                                         "9":  1,
+                                                         "13":  3,
+                                                         "12":  4,
+                                                         "8":  2,
+                                                         "4":  3,
+                                                         "3":  4,
+                                                         "0":  1,
+                                                         "6":  1
+                                                     }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "easy",
+                        "prompt":  "Inequality Sudoku easy #3",
+                        "tags":  [
+                                     "logic",
+                                     "arithmetic"
+                                 ]
+                    },
+                    {
+                        "id":  "ineq_easy_04",
+                        "type":  "ineq_sudoku",
+                        "initial_state":  {
+                                              "entries":  {
+
+                                                          },
+                                              "inequalities":  [
+                                                                   {
+                                                                       "op":  "\u003c",
+                                                                       "b":  1,
+                                                                       "a":  0
+                                                                   },
+                                                                   {
+                                                                       "op":  "\u003e",
+                                                                       "b":  6,
+                                                                       "a":  5
+                                                                   },
+                                                                   {
+                                                                       "op":  "\u003e",
+                                                                       "b":  11,
+                                                                       "a":  10
+                                                                   }
+                                                               ],
+                                              "givens":  {
+                                                             "0":  1
+                                                         },
+                                              "size":  4
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Each row and column has unique digits.",
+                                      "Respect \u003e and \u003c signs."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "entries":  {
+                                                         "5":  4,
+                                                         "11":  3,
+                                                         "10":  4,
+                                                         "1":  2,
+                                                         "15":  1,
+                                                         "7":  2,
+                                                         "2":  3,
+                                                         "14":  2,
+                                                         "9":  1,
+                                                         "13":  3,
+                                                         "12":  4,
+                                                         "8":  2,
+                                                         "4":  3,
+                                                         "3":  4,
+                                                         "0":  1,
+                                                         "6":  1
+                                                     }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "easy",
+                        "prompt":  "Inequality Sudoku easy #4",
+                        "tags":  [
+                                     "logic",
+                                     "arithmetic"
+                                 ]
+                    },
+                    {
+                        "id":  "ineq_easy_05",
+                        "type":  "ineq_sudoku",
+                        "initial_state":  {
+                                              "entries":  {
+
+                                                          },
+                                              "inequalities":  [
+                                                                   {
+                                                                       "op":  "\u003c",
+                                                                       "b":  1,
+                                                                       "a":  0
+                                                                   },
+                                                                   {
+                                                                       "op":  "\u003e",
+                                                                       "b":  6,
+                                                                       "a":  5
+                                                                   },
+                                                                   {
+                                                                       "op":  "\u003e",
+                                                                       "b":  11,
+                                                                       "a":  10
+                                                                   }
+                                                               ],
+                                              "givens":  {
+                                                             "0":  1
+                                                         },
+                                              "size":  4
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Each row and column has unique digits.",
+                                      "Respect \u003e and \u003c signs."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "entries":  {
+                                                         "5":  4,
+                                                         "11":  3,
+                                                         "10":  4,
+                                                         "1":  2,
+                                                         "15":  1,
+                                                         "7":  2,
+                                                         "2":  3,
+                                                         "14":  2,
+                                                         "9":  1,
+                                                         "13":  3,
+                                                         "12":  4,
+                                                         "8":  2,
+                                                         "4":  3,
+                                                         "3":  4,
+                                                         "0":  1,
+                                                         "6":  1
+                                                     }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "easy",
+                        "prompt":  "Inequality Sudoku easy #5",
+                        "tags":  [
+                                     "logic",
+                                     "arithmetic"
+                                 ]
+                    },
+                    {
+                        "id":  "ineq_easy_06",
+                        "type":  "ineq_sudoku",
+                        "initial_state":  {
+                                              "entries":  {
+
+                                                          },
+                                              "inequalities":  [
+                                                                   {
+                                                                       "op":  "\u003c",
+                                                                       "b":  1,
+                                                                       "a":  0
+                                                                   },
+                                                                   {
+                                                                       "op":  "\u003e",
+                                                                       "b":  6,
+                                                                       "a":  5
+                                                                   },
+                                                                   {
+                                                                       "op":  "\u003e",
+                                                                       "b":  11,
+                                                                       "a":  10
+                                                                   }
+                                                               ],
+                                              "givens":  {
+                                                             "0":  1
+                                                         },
+                                              "size":  4
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Each row and column has unique digits.",
+                                      "Respect \u003e and \u003c signs."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "entries":  {
+                                                         "5":  4,
+                                                         "11":  3,
+                                                         "10":  4,
+                                                         "1":  2,
+                                                         "15":  1,
+                                                         "7":  2,
+                                                         "2":  3,
+                                                         "14":  2,
+                                                         "9":  1,
+                                                         "13":  3,
+                                                         "12":  4,
+                                                         "8":  2,
+                                                         "4":  3,
+                                                         "3":  4,
+                                                         "0":  1,
+                                                         "6":  1
+                                                     }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "easy",
+                        "prompt":  "Inequality Sudoku easy #6",
+                        "tags":  [
+                                     "logic",
+                                     "arithmetic"
+                                 ]
+                    },
+                    {
+                        "id":  "ineq_easy_07",
+                        "type":  "ineq_sudoku",
+                        "initial_state":  {
+                                              "entries":  {
+
+                                                          },
+                                              "inequalities":  [
+                                                                   {
+                                                                       "op":  "\u003c",
+                                                                       "b":  1,
+                                                                       "a":  0
+                                                                   },
+                                                                   {
+                                                                       "op":  "\u003e",
+                                                                       "b":  6,
+                                                                       "a":  5
+                                                                   },
+                                                                   {
+                                                                       "op":  "\u003e",
+                                                                       "b":  11,
+                                                                       "a":  10
+                                                                   }
+                                                               ],
+                                              "givens":  {
+                                                             "0":  1
+                                                         },
+                                              "size":  4
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Each row and column has unique digits.",
+                                      "Respect \u003e and \u003c signs."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "entries":  {
+                                                         "5":  4,
+                                                         "11":  3,
+                                                         "10":  4,
+                                                         "1":  2,
+                                                         "15":  1,
+                                                         "7":  2,
+                                                         "2":  3,
+                                                         "14":  2,
+                                                         "9":  1,
+                                                         "13":  3,
+                                                         "12":  4,
+                                                         "8":  2,
+                                                         "4":  3,
+                                                         "3":  4,
+                                                         "0":  1,
+                                                         "6":  1
+                                                     }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "easy",
+                        "prompt":  "Inequality Sudoku easy #7",
+                        "tags":  [
+                                     "logic",
+                                     "arithmetic"
+                                 ]
+                    },
+                    {
+                        "id":  "ineq_easy_08",
+                        "type":  "ineq_sudoku",
+                        "initial_state":  {
+                                              "entries":  {
+
+                                                          },
+                                              "inequalities":  [
+                                                                   {
+                                                                       "op":  "\u003c",
+                                                                       "b":  1,
+                                                                       "a":  0
+                                                                   },
+                                                                   {
+                                                                       "op":  "\u003e",
+                                                                       "b":  6,
+                                                                       "a":  5
+                                                                   },
+                                                                   {
+                                                                       "op":  "\u003e",
+                                                                       "b":  11,
+                                                                       "a":  10
+                                                                   }
+                                                               ],
+                                              "givens":  {
+                                                             "0":  1
+                                                         },
+                                              "size":  4
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Each row and column has unique digits.",
+                                      "Respect \u003e and \u003c signs."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "entries":  {
+                                                         "5":  4,
+                                                         "11":  3,
+                                                         "10":  4,
+                                                         "1":  2,
+                                                         "15":  1,
+                                                         "7":  2,
+                                                         "2":  3,
+                                                         "14":  2,
+                                                         "9":  1,
+                                                         "13":  3,
+                                                         "12":  4,
+                                                         "8":  2,
+                                                         "4":  3,
+                                                         "3":  4,
+                                                         "0":  1,
+                                                         "6":  1
+                                                     }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "easy",
+                        "prompt":  "Inequality Sudoku easy #8",
+                        "tags":  [
+                                     "logic",
+                                     "arithmetic"
+                                 ]
+                    },
+                    {
+                        "id":  "ineq_easy_09",
+                        "type":  "ineq_sudoku",
+                        "initial_state":  {
+                                              "entries":  {
+
+                                                          },
+                                              "inequalities":  [
+                                                                   {
+                                                                       "op":  "\u003c",
+                                                                       "b":  1,
+                                                                       "a":  0
+                                                                   },
+                                                                   {
+                                                                       "op":  "\u003e",
+                                                                       "b":  6,
+                                                                       "a":  5
+                                                                   },
+                                                                   {
+                                                                       "op":  "\u003e",
+                                                                       "b":  11,
+                                                                       "a":  10
+                                                                   }
+                                                               ],
+                                              "givens":  {
+                                                             "0":  1
+                                                         },
+                                              "size":  4
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Each row and column has unique digits.",
+                                      "Respect \u003e and \u003c signs."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "entries":  {
+                                                         "5":  4,
+                                                         "11":  3,
+                                                         "10":  4,
+                                                         "1":  2,
+                                                         "15":  1,
+                                                         "7":  2,
+                                                         "2":  3,
+                                                         "14":  2,
+                                                         "9":  1,
+                                                         "13":  3,
+                                                         "12":  4,
+                                                         "8":  2,
+                                                         "4":  3,
+                                                         "3":  4,
+                                                         "0":  1,
+                                                         "6":  1
+                                                     }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "easy",
+                        "prompt":  "Inequality Sudoku easy #9",
+                        "tags":  [
+                                     "logic",
+                                     "arithmetic"
+                                 ]
+                    },
+                    {
+                        "id":  "ineq_easy_10",
+                        "type":  "ineq_sudoku",
+                        "initial_state":  {
+                                              "entries":  {
+
+                                                          },
+                                              "inequalities":  [
+                                                                   {
+                                                                       "op":  "\u003c",
+                                                                       "b":  1,
+                                                                       "a":  0
+                                                                   },
+                                                                   {
+                                                                       "op":  "\u003e",
+                                                                       "b":  6,
+                                                                       "a":  5
+                                                                   },
+                                                                   {
+                                                                       "op":  "\u003e",
+                                                                       "b":  11,
+                                                                       "a":  10
+                                                                   }
+                                                               ],
+                                              "givens":  {
+                                                             "0":  1
+                                                         },
+                                              "size":  4
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Each row and column has unique digits.",
+                                      "Respect \u003e and \u003c signs."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "entries":  {
+                                                         "5":  4,
+                                                         "11":  3,
+                                                         "10":  4,
+                                                         "1":  2,
+                                                         "15":  1,
+                                                         "7":  2,
+                                                         "2":  3,
+                                                         "14":  2,
+                                                         "9":  1,
+                                                         "13":  3,
+                                                         "12":  4,
+                                                         "8":  2,
+                                                         "4":  3,
+                                                         "3":  4,
+                                                         "0":  1,
+                                                         "6":  1
+                                                     }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "easy",
+                        "prompt":  "Inequality Sudoku easy #10",
+                        "tags":  [
+                                     "logic",
+                                     "arithmetic"
+                                 ]
+                    },
+                    {
+                        "id":  "ineq_medium_01",
+                        "type":  "ineq_sudoku",
+                        "initial_state":  {
+                                              "entries":  {
+
+                                                          },
+                                              "inequalities":  [
+                                                                   {
+                                                                       "op":  "\u003c",
+                                                                       "b":  1,
+                                                                       "a":  0
+                                                                   },
+                                                                   {
+                                                                       "op":  "\u003e",
+                                                                       "b":  6,
+                                                                       "a":  5
+                                                                   },
+                                                                   {
+                                                                       "op":  "\u003e",
+                                                                       "b":  11,
+                                                                       "a":  10
+                                                                   }
+                                                               ],
+                                              "givens":  {
+                                                             "0":  1
+                                                         },
+                                              "size":  4
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Each row and column has unique digits.",
+                                      "Respect \u003e and \u003c signs."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "entries":  {
+                                                         "5":  4,
+                                                         "11":  3,
+                                                         "10":  4,
+                                                         "1":  2,
+                                                         "15":  1,
+                                                         "7":  2,
+                                                         "2":  3,
+                                                         "14":  2,
+                                                         "9":  1,
+                                                         "13":  3,
+                                                         "12":  4,
+                                                         "8":  2,
+                                                         "4":  3,
+                                                         "3":  4,
+                                                         "0":  1,
+                                                         "6":  1
+                                                     }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "medium",
+                        "prompt":  "Inequality Sudoku medium #1",
+                        "tags":  [
+                                     "logic",
+                                     "arithmetic"
+                                 ]
+                    },
+                    {
+                        "id":  "ineq_medium_02",
+                        "type":  "ineq_sudoku",
+                        "initial_state":  {
+                                              "entries":  {
+
+                                                          },
+                                              "inequalities":  [
+                                                                   {
+                                                                       "op":  "\u003c",
+                                                                       "b":  1,
+                                                                       "a":  0
+                                                                   },
+                                                                   {
+                                                                       "op":  "\u003e",
+                                                                       "b":  6,
+                                                                       "a":  5
+                                                                   },
+                                                                   {
+                                                                       "op":  "\u003e",
+                                                                       "b":  11,
+                                                                       "a":  10
+                                                                   }
+                                                               ],
+                                              "givens":  {
+                                                             "0":  1
+                                                         },
+                                              "size":  4
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Each row and column has unique digits.",
+                                      "Respect \u003e and \u003c signs."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "entries":  {
+                                                         "5":  4,
+                                                         "11":  3,
+                                                         "10":  4,
+                                                         "1":  2,
+                                                         "15":  1,
+                                                         "7":  2,
+                                                         "2":  3,
+                                                         "14":  2,
+                                                         "9":  1,
+                                                         "13":  3,
+                                                         "12":  4,
+                                                         "8":  2,
+                                                         "4":  3,
+                                                         "3":  4,
+                                                         "0":  1,
+                                                         "6":  1
+                                                     }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "medium",
+                        "prompt":  "Inequality Sudoku medium #2",
+                        "tags":  [
+                                     "logic",
+                                     "arithmetic"
+                                 ]
+                    },
+                    {
+                        "id":  "ineq_medium_03",
+                        "type":  "ineq_sudoku",
+                        "initial_state":  {
+                                              "entries":  {
+
+                                                          },
+                                              "inequalities":  [
+                                                                   {
+                                                                       "op":  "\u003c",
+                                                                       "b":  1,
+                                                                       "a":  0
+                                                                   },
+                                                                   {
+                                                                       "op":  "\u003e",
+                                                                       "b":  6,
+                                                                       "a":  5
+                                                                   },
+                                                                   {
+                                                                       "op":  "\u003e",
+                                                                       "b":  11,
+                                                                       "a":  10
+                                                                   }
+                                                               ],
+                                              "givens":  {
+                                                             "0":  1
+                                                         },
+                                              "size":  4
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Each row and column has unique digits.",
+                                      "Respect \u003e and \u003c signs."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "entries":  {
+                                                         "5":  4,
+                                                         "11":  3,
+                                                         "10":  4,
+                                                         "1":  2,
+                                                         "15":  1,
+                                                         "7":  2,
+                                                         "2":  3,
+                                                         "14":  2,
+                                                         "9":  1,
+                                                         "13":  3,
+                                                         "12":  4,
+                                                         "8":  2,
+                                                         "4":  3,
+                                                         "3":  4,
+                                                         "0":  1,
+                                                         "6":  1
+                                                     }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "medium",
+                        "prompt":  "Inequality Sudoku medium #3",
+                        "tags":  [
+                                     "logic",
+                                     "arithmetic"
+                                 ]
+                    },
+                    {
+                        "id":  "ineq_medium_04",
+                        "type":  "ineq_sudoku",
+                        "initial_state":  {
+                                              "entries":  {
+
+                                                          },
+                                              "inequalities":  [
+                                                                   {
+                                                                       "op":  "\u003c",
+                                                                       "b":  1,
+                                                                       "a":  0
+                                                                   },
+                                                                   {
+                                                                       "op":  "\u003e",
+                                                                       "b":  6,
+                                                                       "a":  5
+                                                                   },
+                                                                   {
+                                                                       "op":  "\u003e",
+                                                                       "b":  11,
+                                                                       "a":  10
+                                                                   }
+                                                               ],
+                                              "givens":  {
+                                                             "0":  1
+                                                         },
+                                              "size":  4
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Each row and column has unique digits.",
+                                      "Respect \u003e and \u003c signs."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "entries":  {
+                                                         "5":  4,
+                                                         "11":  3,
+                                                         "10":  4,
+                                                         "1":  2,
+                                                         "15":  1,
+                                                         "7":  2,
+                                                         "2":  3,
+                                                         "14":  2,
+                                                         "9":  1,
+                                                         "13":  3,
+                                                         "12":  4,
+                                                         "8":  2,
+                                                         "4":  3,
+                                                         "3":  4,
+                                                         "0":  1,
+                                                         "6":  1
+                                                     }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "medium",
+                        "prompt":  "Inequality Sudoku medium #4",
+                        "tags":  [
+                                     "logic",
+                                     "arithmetic"
+                                 ]
+                    },
+                    {
+                        "id":  "ineq_medium_05",
+                        "type":  "ineq_sudoku",
+                        "initial_state":  {
+                                              "entries":  {
+
+                                                          },
+                                              "inequalities":  [
+                                                                   {
+                                                                       "op":  "\u003c",
+                                                                       "b":  1,
+                                                                       "a":  0
+                                                                   },
+                                                                   {
+                                                                       "op":  "\u003e",
+                                                                       "b":  6,
+                                                                       "a":  5
+                                                                   },
+                                                                   {
+                                                                       "op":  "\u003e",
+                                                                       "b":  11,
+                                                                       "a":  10
+                                                                   }
+                                                               ],
+                                              "givens":  {
+                                                             "0":  1
+                                                         },
+                                              "size":  4
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Each row and column has unique digits.",
+                                      "Respect \u003e and \u003c signs."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "entries":  {
+                                                         "5":  4,
+                                                         "11":  3,
+                                                         "10":  4,
+                                                         "1":  2,
+                                                         "15":  1,
+                                                         "7":  2,
+                                                         "2":  3,
+                                                         "14":  2,
+                                                         "9":  1,
+                                                         "13":  3,
+                                                         "12":  4,
+                                                         "8":  2,
+                                                         "4":  3,
+                                                         "3":  4,
+                                                         "0":  1,
+                                                         "6":  1
+                                                     }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "medium",
+                        "prompt":  "Inequality Sudoku medium #5",
+                        "tags":  [
+                                     "logic",
+                                     "arithmetic"
+                                 ]
+                    },
+                    {
+                        "id":  "ineq_medium_06",
+                        "type":  "ineq_sudoku",
+                        "initial_state":  {
+                                              "entries":  {
+
+                                                          },
+                                              "inequalities":  [
+                                                                   {
+                                                                       "op":  "\u003c",
+                                                                       "b":  1,
+                                                                       "a":  0
+                                                                   },
+                                                                   {
+                                                                       "op":  "\u003e",
+                                                                       "b":  6,
+                                                                       "a":  5
+                                                                   },
+                                                                   {
+                                                                       "op":  "\u003e",
+                                                                       "b":  11,
+                                                                       "a":  10
+                                                                   }
+                                                               ],
+                                              "givens":  {
+                                                             "0":  1
+                                                         },
+                                              "size":  4
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Each row and column has unique digits.",
+                                      "Respect \u003e and \u003c signs."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "entries":  {
+                                                         "5":  4,
+                                                         "11":  3,
+                                                         "10":  4,
+                                                         "1":  2,
+                                                         "15":  1,
+                                                         "7":  2,
+                                                         "2":  3,
+                                                         "14":  2,
+                                                         "9":  1,
+                                                         "13":  3,
+                                                         "12":  4,
+                                                         "8":  2,
+                                                         "4":  3,
+                                                         "3":  4,
+                                                         "0":  1,
+                                                         "6":  1
+                                                     }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "medium",
+                        "prompt":  "Inequality Sudoku medium #6",
+                        "tags":  [
+                                     "logic",
+                                     "arithmetic"
+                                 ]
+                    },
+                    {
+                        "id":  "ineq_medium_07",
+                        "type":  "ineq_sudoku",
+                        "initial_state":  {
+                                              "entries":  {
+
+                                                          },
+                                              "inequalities":  [
+                                                                   {
+                                                                       "op":  "\u003c",
+                                                                       "b":  1,
+                                                                       "a":  0
+                                                                   },
+                                                                   {
+                                                                       "op":  "\u003e",
+                                                                       "b":  6,
+                                                                       "a":  5
+                                                                   },
+                                                                   {
+                                                                       "op":  "\u003e",
+                                                                       "b":  11,
+                                                                       "a":  10
+                                                                   }
+                                                               ],
+                                              "givens":  {
+                                                             "0":  1
+                                                         },
+                                              "size":  4
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Each row and column has unique digits.",
+                                      "Respect \u003e and \u003c signs."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "entries":  {
+                                                         "5":  4,
+                                                         "11":  3,
+                                                         "10":  4,
+                                                         "1":  2,
+                                                         "15":  1,
+                                                         "7":  2,
+                                                         "2":  3,
+                                                         "14":  2,
+                                                         "9":  1,
+                                                         "13":  3,
+                                                         "12":  4,
+                                                         "8":  2,
+                                                         "4":  3,
+                                                         "3":  4,
+                                                         "0":  1,
+                                                         "6":  1
+                                                     }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "medium",
+                        "prompt":  "Inequality Sudoku medium #7",
+                        "tags":  [
+                                     "logic",
+                                     "arithmetic"
+                                 ]
+                    },
+                    {
+                        "id":  "ineq_medium_08",
+                        "type":  "ineq_sudoku",
+                        "initial_state":  {
+                                              "entries":  {
+
+                                                          },
+                                              "inequalities":  [
+                                                                   {
+                                                                       "op":  "\u003c",
+                                                                       "b":  1,
+                                                                       "a":  0
+                                                                   },
+                                                                   {
+                                                                       "op":  "\u003e",
+                                                                       "b":  6,
+                                                                       "a":  5
+                                                                   },
+                                                                   {
+                                                                       "op":  "\u003e",
+                                                                       "b":  11,
+                                                                       "a":  10
+                                                                   }
+                                                               ],
+                                              "givens":  {
+                                                             "0":  1
+                                                         },
+                                              "size":  4
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Each row and column has unique digits.",
+                                      "Respect \u003e and \u003c signs."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "entries":  {
+                                                         "5":  4,
+                                                         "11":  3,
+                                                         "10":  4,
+                                                         "1":  2,
+                                                         "15":  1,
+                                                         "7":  2,
+                                                         "2":  3,
+                                                         "14":  2,
+                                                         "9":  1,
+                                                         "13":  3,
+                                                         "12":  4,
+                                                         "8":  2,
+                                                         "4":  3,
+                                                         "3":  4,
+                                                         "0":  1,
+                                                         "6":  1
+                                                     }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "medium",
+                        "prompt":  "Inequality Sudoku medium #8",
+                        "tags":  [
+                                     "logic",
+                                     "arithmetic"
+                                 ]
+                    },
+                    {
+                        "id":  "ineq_medium_09",
+                        "type":  "ineq_sudoku",
+                        "initial_state":  {
+                                              "entries":  {
+
+                                                          },
+                                              "inequalities":  [
+                                                                   {
+                                                                       "op":  "\u003c",
+                                                                       "b":  1,
+                                                                       "a":  0
+                                                                   },
+                                                                   {
+                                                                       "op":  "\u003e",
+                                                                       "b":  6,
+                                                                       "a":  5
+                                                                   },
+                                                                   {
+                                                                       "op":  "\u003e",
+                                                                       "b":  11,
+                                                                       "a":  10
+                                                                   }
+                                                               ],
+                                              "givens":  {
+                                                             "0":  1
+                                                         },
+                                              "size":  4
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Each row and column has unique digits.",
+                                      "Respect \u003e and \u003c signs."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "entries":  {
+                                                         "5":  4,
+                                                         "11":  3,
+                                                         "10":  4,
+                                                         "1":  2,
+                                                         "15":  1,
+                                                         "7":  2,
+                                                         "2":  3,
+                                                         "14":  2,
+                                                         "9":  1,
+                                                         "13":  3,
+                                                         "12":  4,
+                                                         "8":  2,
+                                                         "4":  3,
+                                                         "3":  4,
+                                                         "0":  1,
+                                                         "6":  1
+                                                     }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "medium",
+                        "prompt":  "Inequality Sudoku medium #9",
+                        "tags":  [
+                                     "logic",
+                                     "arithmetic"
+                                 ]
+                    },
+                    {
+                        "id":  "ineq_medium_10",
+                        "type":  "ineq_sudoku",
+                        "initial_state":  {
+                                              "entries":  {
+
+                                                          },
+                                              "inequalities":  [
+                                                                   {
+                                                                       "op":  "\u003c",
+                                                                       "b":  1,
+                                                                       "a":  0
+                                                                   },
+                                                                   {
+                                                                       "op":  "\u003e",
+                                                                       "b":  6,
+                                                                       "a":  5
+                                                                   },
+                                                                   {
+                                                                       "op":  "\u003e",
+                                                                       "b":  11,
+                                                                       "a":  10
+                                                                   }
+                                                               ],
+                                              "givens":  {
+                                                             "0":  1
+                                                         },
+                                              "size":  4
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Each row and column has unique digits.",
+                                      "Respect \u003e and \u003c signs."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "entries":  {
+                                                         "5":  4,
+                                                         "11":  3,
+                                                         "10":  4,
+                                                         "1":  2,
+                                                         "15":  1,
+                                                         "7":  2,
+                                                         "2":  3,
+                                                         "14":  2,
+                                                         "9":  1,
+                                                         "13":  3,
+                                                         "12":  4,
+                                                         "8":  2,
+                                                         "4":  3,
+                                                         "3":  4,
+                                                         "0":  1,
+                                                         "6":  1
+                                                     }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "medium",
+                        "prompt":  "Inequality Sudoku medium #10",
+                        "tags":  [
+                                     "logic",
+                                     "arithmetic"
+                                 ]
+                    },
+                    {
+                        "id":  "ineq_hard_01",
+                        "type":  "ineq_sudoku",
+                        "initial_state":  {
+                                              "entries":  {
+
+                                                          },
+                                              "inequalities":  [
+                                                                   {
+                                                                       "op":  "\u003c",
+                                                                       "b":  1,
+                                                                       "a":  0
+                                                                   },
+                                                                   {
+                                                                       "op":  "\u003e",
+                                                                       "b":  6,
+                                                                       "a":  5
+                                                                   },
+                                                                   {
+                                                                       "op":  "\u003e",
+                                                                       "b":  11,
+                                                                       "a":  10
+                                                                   }
+                                                               ],
+                                              "givens":  {
+                                                             "0":  1
+                                                         },
+                                              "size":  4
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Each row and column has unique digits.",
+                                      "Respect \u003e and \u003c signs."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "entries":  {
+                                                         "5":  4,
+                                                         "11":  3,
+                                                         "10":  4,
+                                                         "1":  2,
+                                                         "15":  1,
+                                                         "7":  2,
+                                                         "2":  3,
+                                                         "14":  2,
+                                                         "9":  1,
+                                                         "13":  3,
+                                                         "12":  4,
+                                                         "8":  2,
+                                                         "4":  3,
+                                                         "3":  4,
+                                                         "0":  1,
+                                                         "6":  1
+                                                     }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "hard",
+                        "prompt":  "Inequality Sudoku hard #1",
+                        "tags":  [
+                                     "logic",
+                                     "arithmetic"
+                                 ]
+                    },
+                    {
+                        "id":  "ineq_hard_02",
+                        "type":  "ineq_sudoku",
+                        "initial_state":  {
+                                              "entries":  {
+
+                                                          },
+                                              "inequalities":  [
+                                                                   {
+                                                                       "op":  "\u003c",
+                                                                       "b":  1,
+                                                                       "a":  0
+                                                                   },
+                                                                   {
+                                                                       "op":  "\u003e",
+                                                                       "b":  6,
+                                                                       "a":  5
+                                                                   },
+                                                                   {
+                                                                       "op":  "\u003e",
+                                                                       "b":  11,
+                                                                       "a":  10
+                                                                   }
+                                                               ],
+                                              "givens":  {
+                                                             "0":  1
+                                                         },
+                                              "size":  4
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Each row and column has unique digits.",
+                                      "Respect \u003e and \u003c signs."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "entries":  {
+                                                         "5":  4,
+                                                         "11":  3,
+                                                         "10":  4,
+                                                         "1":  2,
+                                                         "15":  1,
+                                                         "7":  2,
+                                                         "2":  3,
+                                                         "14":  2,
+                                                         "9":  1,
+                                                         "13":  3,
+                                                         "12":  4,
+                                                         "8":  2,
+                                                         "4":  3,
+                                                         "3":  4,
+                                                         "0":  1,
+                                                         "6":  1
+                                                     }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "hard",
+                        "prompt":  "Inequality Sudoku hard #2",
+                        "tags":  [
+                                     "logic",
+                                     "arithmetic"
+                                 ]
+                    },
+                    {
+                        "id":  "ineq_hard_03",
+                        "type":  "ineq_sudoku",
+                        "initial_state":  {
+                                              "entries":  {
+
+                                                          },
+                                              "inequalities":  [
+                                                                   {
+                                                                       "op":  "\u003c",
+                                                                       "b":  1,
+                                                                       "a":  0
+                                                                   },
+                                                                   {
+                                                                       "op":  "\u003e",
+                                                                       "b":  6,
+                                                                       "a":  5
+                                                                   },
+                                                                   {
+                                                                       "op":  "\u003e",
+                                                                       "b":  11,
+                                                                       "a":  10
+                                                                   }
+                                                               ],
+                                              "givens":  {
+                                                             "0":  1
+                                                         },
+                                              "size":  4
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Each row and column has unique digits.",
+                                      "Respect \u003e and \u003c signs."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "entries":  {
+                                                         "5":  4,
+                                                         "11":  3,
+                                                         "10":  4,
+                                                         "1":  2,
+                                                         "15":  1,
+                                                         "7":  2,
+                                                         "2":  3,
+                                                         "14":  2,
+                                                         "9":  1,
+                                                         "13":  3,
+                                                         "12":  4,
+                                                         "8":  2,
+                                                         "4":  3,
+                                                         "3":  4,
+                                                         "0":  1,
+                                                         "6":  1
+                                                     }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "hard",
+                        "prompt":  "Inequality Sudoku hard #3",
+                        "tags":  [
+                                     "logic",
+                                     "arithmetic"
+                                 ]
+                    },
+                    {
+                        "id":  "ineq_hard_04",
+                        "type":  "ineq_sudoku",
+                        "initial_state":  {
+                                              "entries":  {
+
+                                                          },
+                                              "inequalities":  [
+                                                                   {
+                                                                       "op":  "\u003c",
+                                                                       "b":  1,
+                                                                       "a":  0
+                                                                   },
+                                                                   {
+                                                                       "op":  "\u003e",
+                                                                       "b":  6,
+                                                                       "a":  5
+                                                                   },
+                                                                   {
+                                                                       "op":  "\u003e",
+                                                                       "b":  11,
+                                                                       "a":  10
+                                                                   }
+                                                               ],
+                                              "givens":  {
+                                                             "0":  1
+                                                         },
+                                              "size":  4
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Each row and column has unique digits.",
+                                      "Respect \u003e and \u003c signs."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "entries":  {
+                                                         "5":  4,
+                                                         "11":  3,
+                                                         "10":  4,
+                                                         "1":  2,
+                                                         "15":  1,
+                                                         "7":  2,
+                                                         "2":  3,
+                                                         "14":  2,
+                                                         "9":  1,
+                                                         "13":  3,
+                                                         "12":  4,
+                                                         "8":  2,
+                                                         "4":  3,
+                                                         "3":  4,
+                                                         "0":  1,
+                                                         "6":  1
+                                                     }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "hard",
+                        "prompt":  "Inequality Sudoku hard #4",
+                        "tags":  [
+                                     "logic",
+                                     "arithmetic"
+                                 ]
+                    },
+                    {
+                        "id":  "ineq_hard_05",
+                        "type":  "ineq_sudoku",
+                        "initial_state":  {
+                                              "entries":  {
+
+                                                          },
+                                              "inequalities":  [
+                                                                   {
+                                                                       "op":  "\u003c",
+                                                                       "b":  1,
+                                                                       "a":  0
+                                                                   },
+                                                                   {
+                                                                       "op":  "\u003e",
+                                                                       "b":  6,
+                                                                       "a":  5
+                                                                   },
+                                                                   {
+                                                                       "op":  "\u003e",
+                                                                       "b":  11,
+                                                                       "a":  10
+                                                                   }
+                                                               ],
+                                              "givens":  {
+                                                             "0":  1
+                                                         },
+                                              "size":  4
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Each row and column has unique digits.",
+                                      "Respect \u003e and \u003c signs."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "entries":  {
+                                                         "5":  4,
+                                                         "11":  3,
+                                                         "10":  4,
+                                                         "1":  2,
+                                                         "15":  1,
+                                                         "7":  2,
+                                                         "2":  3,
+                                                         "14":  2,
+                                                         "9":  1,
+                                                         "13":  3,
+                                                         "12":  4,
+                                                         "8":  2,
+                                                         "4":  3,
+                                                         "3":  4,
+                                                         "0":  1,
+                                                         "6":  1
+                                                     }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "hard",
+                        "prompt":  "Inequality Sudoku hard #5",
+                        "tags":  [
+                                     "logic",
+                                     "arithmetic"
+                                 ]
+                    },
+                    {
+                        "id":  "ineq_hard_06",
+                        "type":  "ineq_sudoku",
+                        "initial_state":  {
+                                              "entries":  {
+
+                                                          },
+                                              "inequalities":  [
+                                                                   {
+                                                                       "op":  "\u003c",
+                                                                       "b":  1,
+                                                                       "a":  0
+                                                                   },
+                                                                   {
+                                                                       "op":  "\u003e",
+                                                                       "b":  6,
+                                                                       "a":  5
+                                                                   },
+                                                                   {
+                                                                       "op":  "\u003e",
+                                                                       "b":  11,
+                                                                       "a":  10
+                                                                   }
+                                                               ],
+                                              "givens":  {
+                                                             "0":  1
+                                                         },
+                                              "size":  4
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Each row and column has unique digits.",
+                                      "Respect \u003e and \u003c signs."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "entries":  {
+                                                         "5":  4,
+                                                         "11":  3,
+                                                         "10":  4,
+                                                         "1":  2,
+                                                         "15":  1,
+                                                         "7":  2,
+                                                         "2":  3,
+                                                         "14":  2,
+                                                         "9":  1,
+                                                         "13":  3,
+                                                         "12":  4,
+                                                         "8":  2,
+                                                         "4":  3,
+                                                         "3":  4,
+                                                         "0":  1,
+                                                         "6":  1
+                                                     }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "hard",
+                        "prompt":  "Inequality Sudoku hard #6",
+                        "tags":  [
+                                     "logic",
+                                     "arithmetic"
+                                 ]
+                    },
+                    {
+                        "id":  "ineq_hard_07",
+                        "type":  "ineq_sudoku",
+                        "initial_state":  {
+                                              "entries":  {
+
+                                                          },
+                                              "inequalities":  [
+                                                                   {
+                                                                       "op":  "\u003c",
+                                                                       "b":  1,
+                                                                       "a":  0
+                                                                   },
+                                                                   {
+                                                                       "op":  "\u003e",
+                                                                       "b":  6,
+                                                                       "a":  5
+                                                                   },
+                                                                   {
+                                                                       "op":  "\u003e",
+                                                                       "b":  11,
+                                                                       "a":  10
+                                                                   }
+                                                               ],
+                                              "givens":  {
+                                                             "0":  1
+                                                         },
+                                              "size":  4
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Each row and column has unique digits.",
+                                      "Respect \u003e and \u003c signs."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "entries":  {
+                                                         "5":  4,
+                                                         "11":  3,
+                                                         "10":  4,
+                                                         "1":  2,
+                                                         "15":  1,
+                                                         "7":  2,
+                                                         "2":  3,
+                                                         "14":  2,
+                                                         "9":  1,
+                                                         "13":  3,
+                                                         "12":  4,
+                                                         "8":  2,
+                                                         "4":  3,
+                                                         "3":  4,
+                                                         "0":  1,
+                                                         "6":  1
+                                                     }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "hard",
+                        "prompt":  "Inequality Sudoku hard #7",
+                        "tags":  [
+                                     "logic",
+                                     "arithmetic"
+                                 ]
+                    },
+                    {
+                        "id":  "ineq_hard_08",
+                        "type":  "ineq_sudoku",
+                        "initial_state":  {
+                                              "entries":  {
+
+                                                          },
+                                              "inequalities":  [
+                                                                   {
+                                                                       "op":  "\u003c",
+                                                                       "b":  1,
+                                                                       "a":  0
+                                                                   },
+                                                                   {
+                                                                       "op":  "\u003e",
+                                                                       "b":  6,
+                                                                       "a":  5
+                                                                   },
+                                                                   {
+                                                                       "op":  "\u003e",
+                                                                       "b":  11,
+                                                                       "a":  10
+                                                                   }
+                                                               ],
+                                              "givens":  {
+                                                             "0":  1
+                                                         },
+                                              "size":  4
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Each row and column has unique digits.",
+                                      "Respect \u003e and \u003c signs."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "entries":  {
+                                                         "5":  4,
+                                                         "11":  3,
+                                                         "10":  4,
+                                                         "1":  2,
+                                                         "15":  1,
+                                                         "7":  2,
+                                                         "2":  3,
+                                                         "14":  2,
+                                                         "9":  1,
+                                                         "13":  3,
+                                                         "12":  4,
+                                                         "8":  2,
+                                                         "4":  3,
+                                                         "3":  4,
+                                                         "0":  1,
+                                                         "6":  1
+                                                     }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "hard",
+                        "prompt":  "Inequality Sudoku hard #8",
+                        "tags":  [
+                                     "logic",
+                                     "arithmetic"
+                                 ]
+                    },
+                    {
+                        "id":  "ineq_hard_09",
+                        "type":  "ineq_sudoku",
+                        "initial_state":  {
+                                              "entries":  {
+
+                                                          },
+                                              "inequalities":  [
+                                                                   {
+                                                                       "op":  "\u003c",
+                                                                       "b":  1,
+                                                                       "a":  0
+                                                                   },
+                                                                   {
+                                                                       "op":  "\u003e",
+                                                                       "b":  6,
+                                                                       "a":  5
+                                                                   },
+                                                                   {
+                                                                       "op":  "\u003e",
+                                                                       "b":  11,
+                                                                       "a":  10
+                                                                   }
+                                                               ],
+                                              "givens":  {
+                                                             "0":  1
+                                                         },
+                                              "size":  4
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Each row and column has unique digits.",
+                                      "Respect \u003e and \u003c signs."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "entries":  {
+                                                         "5":  4,
+                                                         "11":  3,
+                                                         "10":  4,
+                                                         "1":  2,
+                                                         "15":  1,
+                                                         "7":  2,
+                                                         "2":  3,
+                                                         "14":  2,
+                                                         "9":  1,
+                                                         "13":  3,
+                                                         "12":  4,
+                                                         "8":  2,
+                                                         "4":  3,
+                                                         "3":  4,
+                                                         "0":  1,
+                                                         "6":  1
+                                                     }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "hard",
+                        "prompt":  "Inequality Sudoku hard #9",
+                        "tags":  [
+                                     "logic",
+                                     "arithmetic"
+                                 ]
+                    },
+                    {
+                        "id":  "ineq_hard_10",
+                        "type":  "ineq_sudoku",
+                        "initial_state":  {
+                                              "entries":  {
+
+                                                          },
+                                              "inequalities":  [
+                                                                   {
+                                                                       "op":  "\u003c",
+                                                                       "b":  1,
+                                                                       "a":  0
+                                                                   },
+                                                                   {
+                                                                       "op":  "\u003e",
+                                                                       "b":  6,
+                                                                       "a":  5
+                                                                   },
+                                                                   {
+                                                                       "op":  "\u003e",
+                                                                       "b":  11,
+                                                                       "a":  10
+                                                                   }
+                                                               ],
+                                              "givens":  {
+                                                             "0":  1
+                                                         },
+                                              "size":  4
+                                          },
+                        "recommended_age_band":  "7-12",
+                        "rules":  [
+                                      "Each row and column has unique digits.",
+                                      "Respect \u003e and \u003c signs."
+                                  ],
+                        "explanation":  {
+                                            "summary":  "This puzzle is solved by applying rules step by step.",
+                                            "steps":  [
+                                                          "Read the puzzle rule carefully.",
+                                                          "Use known values to narrow choices.",
+                                                          "Check consistency after each move."
+                                                      ],
+                                            "strategy_tip":  "Look for forced moves before guessing."
+                                        },
+                        "solution":  {
+                                         "entries":  {
+                                                         "5":  4,
+                                                         "11":  3,
+                                                         "10":  4,
+                                                         "1":  2,
+                                                         "15":  1,
+                                                         "7":  2,
+                                                         "2":  3,
+                                                         "14":  2,
+                                                         "9":  1,
+                                                         "13":  3,
+                                                         "12":  4,
+                                                         "8":  2,
+                                                         "4":  3,
+                                                         "3":  4,
+                                                         "0":  1,
+                                                         "6":  1
+                                                     }
+                                     },
+                        "hints":  [
+                                      {
+                                          "message":  "Start with the easiest forced move.",
+                                          "level":  1
+                                      },
+                                      {
+                                          "message":  "Use constraints to eliminate options.",
+                                          "level":  2
+                                      },
+                                      {
+                                          "message":  "Try the next step from your current partial solution.",
+                                          "level":  3
+                                      }
+                                  ],
+                        "difficulty":  "hard",
+                        "prompt":  "Inequality Sudoku hard #10",
+                        "tags":  [
+                                     "logic",
+                                     "arithmetic"
+                                 ]
+                    }
+                ]
+}

@@ -1,0 +1,20 @@
+{
+  "type": "object",
+  "required": ["size", "cages"],
+  "properties": {
+    "size": { "type": "integer", "minimum": 4 },
+    "givens": { "type": "object" },
+    "cages": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "cells", "sum"],
+        "properties": {
+          "id": { "type": "string" },
+          "cells": { "type": "array", "items": { "type": "integer" } },
+          "sum": { "type": "integer", "minimum": 1 }
+        }
+      }
+    }
+  }
+}

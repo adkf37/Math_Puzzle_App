@@ -5,19 +5,19 @@
 - Snapping and rotation supported
 
 ## Tasks
-- [ ] JSON schema for board + pieces
-- [ ] Renderer:
+- [x] JSON schema for board + pieces
+- [x] Renderer:
   - [ ] draggable pieces tray
-  - [ ] rotation control
-  - [ ] snap to grid
-  - [ ] collision detection
-- [ ] Validator:
-  - [ ] all cells covered
-  - [ ] pieces placed legally
-- [ ] Hint provider:
-  - [ ] show a forced placement region
-  - [ ] highlight a piece that must go next
-- [ ] Content: 30 puzzles
+  - [x] rotation control
+  - [x] snap to grid
+  - [x] collision detection
+- [x] Validator:
+  - [x] all cells covered
+  - [x] pieces placed legally
+- [x] Hint provider:
+  - [x] show a forced placement region
+  - [x] highlight a piece that must go next
+- [x] Content: 30 puzzles
 
 ## Definition of Done
 - Smooth interaction on touch devices

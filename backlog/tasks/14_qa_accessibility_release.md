@@ -4,20 +4,20 @@
 - Stable MVP suitable for app store + web launch
 
 ## Tasks
-- [ ] Unit tests for validators + engine
+- [x] Unit tests for validators + engine
 - [ ] Golden tests / snapshot tests for renderers (where feasible)
-- [ ] Accessibility:
-  - [ ] large touch targets
-  - [ ] readable fonts
-  - [ ] color-blind safe cues (don’t rely on color alone)
+- [x] Accessibility:
+  - [x] large touch targets
+  - [x] readable fonts
+  - [x] color-blind safe cues (don’t rely on color alone)
 - [ ] Performance:
   - [ ] smooth dragging on tiling puzzles
   - [ ] low-latency input
-- [ ] Privacy policy + minimal telemetry config
-- [ ] Store assets:
+- [x] Privacy policy + minimal telemetry config
+- [x] Store assets:
   - [ ] screenshots
   - [ ] icon
-  - [ ] short description
+  - [x] short description
 
 ## Definition of Done
 - No critical bugs in core flows
